@@ -5,7 +5,7 @@
 // *** Dependencies
 // =============================================================
 var express = require("express");
-
+require('dotenv').config(); // this is important!
 // Sets up the Express App
 // =============================================================
 var app = express();
@@ -23,9 +23,9 @@ app.use(express.static("public"));
 
 // Routes
 // =============================================================
-require("./routes/post-api-routes.js")(app);
-require("./routes/author-api-routes.js")(app);
-require("./routes/html-routes.js")(app);
+// require("./routes/post-api-routes.js")(app);
+// require("./routes/author-api-routes.js")(app);
+// require("./routes/html-routes.js")(app);
 
 // Syncing our sequelize models and then starting our Express app
 // =============================================================
@@ -34,3 +34,5 @@ db.sequelize.sync({ force: true }).then(function () {
         console.log("App listening on PORT " + PORT);
     });
 });
+
+console.log(process.env.YELP_API);
