@@ -1,0 +1,2892 @@
+[
+  {
+    "business_id": "FNtrxYca1pRcPJ80ZPQu_w",
+    "name": "Allstate Insurance: Oscar Arnold",
+    "address": "15605 W Roosevelt St, Ste 103",
+    "city": "Goodyear",
+    "state": "AZ",
+    "postal_code": "85338",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Home Services, Real Estate, Auto Insurance, Life Insurance, Automotive, Insurance, Real Estate Services"
+  },
+  {
+    "business_id": "1wB4Is9P9U11sihZVUQgaw",
+    "name": "Triangle Benefit Services",
+    "address": "128 Clairton Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15236",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Insurance, Life Insurance, Financial Services, Auto Insurance"
+  },
+  {
+    "business_id": "nTq2Oej2WsSiOBNNEtR6lg",
+    "name": "Nevada Insurance Enrollment",
+    "address": "4260 W Craig Rd, Ste 150-A",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89032",
+    "stars": 4.5,
+    "categories": "Auto Insurance, Insurance, Health Insurance Offices, Funeral Services & Cemeteries, Health & Medical, Home & Rental Insurance, Local Services, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "wL2JpTAk3zziok1Y9jpMVw",
+    "name": "Focus Benefits Group",
+    "address": "4120 N 20th St, Ste B",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85016",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Insurance, Health & Medical, Health Insurance Offices"
+  },
+  {
+    "business_id": "wkcLbpz6GCDJ5D0_uwg9aQ",
+    "name": "Arizona National Insurance",
+    "address": "1013 S Stapley Dr",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85204",
+    "stars": 5,
+    "categories": "Auto Insurance, Insurance, Financial Services, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "AkBSbIyrsa3Fy8lP0WuN7g",
+    "name": "Shalyani Alberto - State Farm Insurance Agent",
+    "address": "2400 S Rancho Dr, Ste 160",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89102",
+    "stars": 4.5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Life Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "hu0ZSSIYN4YoNHgnQqNgRg",
+    "name": "Legacy Insurance & Investment Group",
+    "address": "633 E Ray Dr, Ste 106",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85296",
+    "stars": 1.5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "46Tp9MfHruBf2ReaU5SZBg",
+    "name": "Farmers Insurance - Greg Krajewski",
+    "address": "715 W Baseline Rd, Ste 3",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85283",
+    "stars": 3.5,
+    "categories": "Life Insurance, Home & Rental Insurance, Insurance, Financial Services, Auto Insurance, Professional Services"
+  },
+  {
+    "business_id": "ep9qv_IHwduMhp0C6xBZ1A",
+    "name": "All Nevada Insurance",
+    "address": "7145 W Ann Rd, Ste 120",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89130",
+    "stars": 4,
+    "categories": "Insurance, Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "N0wCyREajOBd6ptgJfCsKQ",
+    "name": "Allstate Insurance: Mike Seifer",
+    "address": "2990 Sunrdg Hgts, Ste 130",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 5,
+    "categories": "Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "ha7QgVNfyDXQ7GXqhZqpTQ",
+    "name": "Valbuena Insurance Group",
+    "address": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28209",
+    "stars": 2,
+    "categories": "Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "s_L5r5U09ryymTpcs7YrxQ",
+    "name": "Allstate Insurance: Wes Cain",
+    "address": "231 N Gilbert Rd",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85234",
+    "stars": 3.5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "3M0eqrPb7Ae2ywKqrNCH9Q",
+    "name": "Neate Dupey Insurance Group",
+    "address": "7400 E Pinnacle Peak Rd, Ste 204",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85255",
+    "stars": 5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Financial Services, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "LA3mtgvUBTX_DGmjfFGdtg",
+    "name": "Allstate Insurance: Padma Schaudt",
+    "address": "6955 N Durango Dr, Unit 1001",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89149",
+    "stars": 2.5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "gX_M3-No7Enc0f4eLxZh_Q",
+    "name": "Freeway Insurance",
+    "address": "2346 E Bonanza Rd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89101",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "LuCGd2ccVQJECqNId72fZg",
+    "name": "Western Pacific Insurance",
+    "address": "301 N Pecos Rd, Ste D",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 4.5,
+    "categories": "Life Insurance, Home & Rental Insurance, Auto Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "sT_J-0Vji-LGteSdVp_gww",
+    "name": "Alpha & Omega Financial Group",
+    "address": "2450 S Gilbert Rd, Ste 212",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85286",
+    "stars": 5,
+    "categories": "Investing, Home & Rental Insurance, Insurance, Life Insurance, Financial Services, Auto Insurance"
+  },
+  {
+    "business_id": "8mdM8abuDq5-QhYBjIY94w",
+    "name": "Desert Shores Insurance Services",
+    "address": "3211 N Tenaya Way, Ste 115",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89129",
+    "stars": 4.5,
+    "categories": "Life Insurance, Financial Services, Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "uW46dizrUk0J1BJc7MkY4A",
+    "name": "JC 101 Services",
+    "address": "2800 W Sahara Ave, Ste 6A",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89102",
+    "stars": 1.5,
+    "categories": "Professional Services, Insurance, Accountants, Tax Services, Life Insurance, Financial Services"
+  },
+  {
+    "business_id": "GCH-_SwHCAsUnLli54JRaQ",
+    "name": "Rodney Horne - Whole Health 4 Life",
+    "address": "4411 S Rural Rd, Ste 201",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85282",
+    "stars": 5,
+    "categories": "Health & Medical, Home Health Care, Health Insurance Offices, Life Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "xf29ZP4UPzPwX6M-0GMIWg",
+    "name": "Erie Insurance Group",
+    "address": "10715 David Taylor Dr, Ste 500",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28262",
+    "stars": 1,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "u04012ROvcubmBDUMQadmA",
+    "name": "Allstate Insurance Agent: Julio Lyons",
+    "address": "6530 N Buffalo Dr, Ste 140",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89131",
+    "stars": 3.5,
+    "categories": "Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "9M9sYHxewgpbzmeKrjw_fA",
+    "name": "Colleen Drinnon - American Family Insurance",
+    "address": "2625 E Craig Rd, Ste F",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89030",
+    "stars": 3.5,
+    "categories": "Life Insurance, Financial Services, Auto Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "1cJTrCjIHusAE4P_GHqyYA",
+    "name": "Allstate Insurance: Juan Deglane",
+    "address": "8276 W Camelback Rd",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85303",
+    "stars": 4,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "48pViHXrYENXVyX44mUGNg",
+    "name": "Casey Kemp, Rane Family Insurance",
+    "address": "",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85027",
+    "stars": 5,
+    "categories": "Health & Medical, Health Insurance Offices, Life Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "t0unczk90zU3bTYFqDqrEg",
+    "name": "Allstate Insurance Agent: Rosalie Gonzalez",
+    "address": "7380 S Eastern Ave, Ste 123",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89123",
+    "stars": 3.5,
+    "categories": "Financial Services, Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "H8yEpcHQKXnWIUBk9EtK-w",
+    "name": "Allstate Insurance : The Bell Agency",
+    "address": "1000 N Green Valley Pkwy, Ste 450",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 4.5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "BVMH2vmNMjE3Al4gOnrAVQ",
+    "name": "Allstate Insurance: J C Alvarado",
+    "address": "112 N Tryon St, Ste 300",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28202",
+    "stars": 4,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "rvaq6umghH9sfNaizkYUCg",
+    "name": "Tom Harman - State Farm Insurance Agent",
+    "address": "7825 Ballantyne Commons, Ste 220",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28277",
+    "stars": 3,
+    "categories": "Banks & Credit Unions, Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "8Q2IPMjrDPwILXa4lBKB8Q",
+    "name": "Link Financial Advisory",
+    "address": "6145 S Rainbow Blvd, Ste 105",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89118",
+    "stars": 5,
+    "categories": "Financial Advising, Financial Services, Life Insurance, Insurance, Investing, Tax Services"
+  },
+  {
+    "business_id": "WXpVC1VbdUaZYgbC4LWV7Q",
+    "name": "Allstate Insurance: Ken Costanza",
+    "address": "8133 Ardrey Kell Rd, Ste 202",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28277",
+    "stars": 5,
+    "categories": "Insurance, Financial Services, Life Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "CYDBaTzC45UzX1eY1jkckg",
+    "name": "Loan Ngo: Allstate Insurance",
+    "address": "467 E Silverado Ranch Blvd, Ste 120",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89183",
+    "stars": 4.5,
+    "categories": "Financial Services, Life Insurance, Home & Rental Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "mbYxVY1lgekEq9UKrzRnxA",
+    "name": "San Tan Insurance",
+    "address": "625 N Gilbert Rd, Ste 107",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85234",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "htNzGIFsWVRcuNXAFEZiTQ",
+    "name": "Allstate Insurance: Paulina Kalaj",
+    "address": "8989 E Via Linda, Ste 218",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85258",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Life Insurance, Financial Services, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "V4lqHS9JvdRjKI7-Y1LJvQ",
+    "name": "Liberty National Life Insurance",
+    "address": "10610 Metromont Pkwy, Ste 300",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28269",
+    "stars": 1,
+    "categories": "Insurance, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "uPs-BlHDIXbFdX9eMnZSTg",
+    "name": "Legacy Wealth Management Group of Las Vegas",
+    "address": "8235 S Eastern Ave, Ste 160",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89123",
+    "stars": 4.5,
+    "categories": "Insurance, Financial Services, Financial Advising, Investing, Life Insurance"
+  },
+  {
+    "business_id": "yiL2RaDn8q09RvrhFNFilQ",
+    "name": "Allstate Insurance: Joe Webster",
+    "address": "10040 W Cheyenne Ave, Ste 140",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89129",
+    "stars": 5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "rpBurVI-UgQMZuBWJWqmhA",
+    "name": "Sun City Financial",
+    "address": "9640 W Tropicana Ave, Ste 106",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 5,
+    "categories": "Health Insurance Offices, Insurance, Financial Advising, Health & Medical, Financial Services, Investing, Life Insurance"
+  },
+  {
+    "business_id": "Y__4UnDUBNwQZmvK2uMRoA",
+    "name": "Kerth Insurance & Associates",
+    "address": "34225 N 27th Dr, Bldg 5, Ste 149",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85085",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "XGfQGUj1GX7BfuOlpjOfDA",
+    "name": "GEICO Insurance Agent",
+    "address": "3315 W Craig Rd, Ste 110",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89032",
+    "stars": 2.5,
+    "categories": "Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "ZtzEEY9T3l6mwr27mwm__w",
+    "name": "Allstate Insurance: Curtis P Ireland",
+    "address": "300 E John St, Ste 122",
+    "city": "Matthews",
+    "state": "NC",
+    "postal_code": "28105",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Financial Services, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "r_vyV25Z5aCHYiNYw1pFBQ",
+    "name": "Effortless Insurance",
+    "address": "5940 S Rainbow Blvd, Ste 167",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89118",
+    "stars": 5,
+    "categories": "Life Insurance, Financial Services, Insurance, Health & Medical, Health Insurance Offices"
+  },
+  {
+    "business_id": "A8xaVmM6WFCVwgoLaV-tTg",
+    "name": "Bill Hunter Insurance Brokers",
+    "address": "1837 E Indian School Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85016",
+    "stars": 4.5,
+    "categories": "Home & Rental Insurance, Financial Services, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "eYvZ3U789PkYZpot5f2PmQ",
+    "name": "Ariel Rivera - State Farm Insurance Agent",
+    "address": "2345 E Centennial Pkwy, Ste 114",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89081",
+    "stars": 4.5,
+    "categories": "Financial Services, Banks & Credit Unions, Life Insurance, Auto Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "fSHNctJhKrjEPVYidGLJ3w",
+    "name": "Short Stop Insurance",
+    "address": "2162 N Lamb Blvd, Ste I",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89115",
+    "stars": 5,
+    "categories": "Insurance, Life Insurance, Auto Insurance, Financial Services, Home & Rental Insurance"
+  },
+  {
+    "business_id": "zFG5IbUkZMPYanGIEYlYew",
+    "name": "Allstate Insurance: Steve Froehle",
+    "address": "9699 N Hayden Rd, Ste E107",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85258",
+    "stars": 3.5,
+    "categories": "Financial Services, Life Insurance, Home & Rental Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "bumTq2vGtYq-gTFXtcpWxQ",
+    "name": "Shelter Insurance",
+    "address": "701 N Green Valley Pkwy, Ste 207",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 3.5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Life Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "eE31byofFhIN6c8t_Gxviw",
+    "name": "ACC Insurance Agency",
+    "address": "20660 N 40th St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85050",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "sd4Bg0MBQOqG89BGOPcF9Q",
+    "name": "Allstate Insurance: Lydia Hernandez",
+    "address": "3415 W Craig Rd, Ste 201",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89032",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "EdeCgDn9XfSulY0DmSwVCA",
+    "name": "Rob Hess",
+    "address": "7150 E Camelback Rd, Ste 310",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85251",
+    "stars": 4,
+    "categories": "Life Insurance, Financial Services, Insurance, Health Insurance Offices, Health & Medical"
+  },
+  {
+    "business_id": "VcXzF9hKUyJZNrNgkzsiXg",
+    "name": "Freeway Insurance",
+    "address": "2605 S Decatur Blvd, Ste 115",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89102",
+    "stars": 3.5,
+    "categories": "Insurance, Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "DBM0lIFFkMlhfXQ0TGWQvQ",
+    "name": "Selman & Company",
+    "address": "6110 Parkland Blvd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44124",
+    "stars": 1,
+    "categories": "Life Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "BoiDlrYoSFDgX02d0rrh1A",
+    "name": "Monique Allan - COUNTRY Financial representative",
+    "address": "3660 E University, Ste 2",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85205",
+    "stars": 2.5,
+    "categories": "Financial Services, Financial Advising, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance, Investing"
+  },
+  {
+    "business_id": "Mr1unBOrzaq8bq1PlNnVKg",
+    "name": "Adam Gettys - State Farm Insurance Agent",
+    "address": "1825 W Chandler Blvd, Ste 1",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85224",
+    "stars": 4.5,
+    "categories": "Banks & Credit Unions, Auto Insurance, Insurance, Financial Services, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "jGnLkfqlVbmbp-Bw5Ex8NA",
+    "name": "Dawn Fisler - American National",
+    "address": "8480 Placid St",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89123",
+    "stars": 5,
+    "categories": "Auto Insurance, Life Insurance, Financial Services, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "74EPO52NAXxuOK0sBpdeaQ",
+    "name": "Farmers Insurance - Ashlee Candelaria",
+    "address": "3923 S Mcclintock Dr, Ste 410",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85282",
+    "stars": 4.5,
+    "categories": "Auto Insurance, Life Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "YONVFCF2RoSUFEndbVTOww",
+    "name": "Kevin Walker Insurance",
+    "address": "",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89012",
+    "stars": 4,
+    "categories": "Life Insurance, Auto Insurance, Financial Services, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "FWNoYwndpV88gYAxpjsYTQ",
+    "name": " L & A Insurance Services",
+    "address": "3218 E Bell Rd, Ste 25",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85032",
+    "stars": 4,
+    "categories": "Financial Services, Financial Advising, Auto Insurance, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "d3FZnKqJYt3tsrFkAxq27Q",
+    "name": "Allstate Insurance Agent: Jacque Riggs",
+    "address": "3160 S Gilbert Rd, Ste 4",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85286",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "aGnZPtxIzhLJwQ7iGVtJCg",
+    "name": "Chris Wing - State Farm Insurance Agent",
+    "address": "3202 E Greenway Rd, Ste 1627",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85032",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "LKH4GWgp-SwkyvttTWU7ow",
+    "name": "Desert Breeze Insurance",
+    "address": "3260 N Hayden Rd, Ste 210",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85251",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "tAEObdpNAr4uYtTRkYhmuw",
+    "name": "ANI Cindy K Agency",
+    "address": "3291 N Buffalo Dr, Ste 110",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89129",
+    "stars": 5,
+    "categories": "Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "JFN7PmFmda3g18mqSfWVJg",
+    "name": "Homeowners Insurance Group",
+    "address": "14300 N Northsight Blvd, Ste 211",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85260",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "432dZkZCHl8CxTjjZcrvAg",
+    "name": "Allstate Insurance: Thomas Bianco",
+    "address": "7206 McKnight Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Financial Services, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "zZPCAFK85NtitSNVP_wfYg",
+    "name": "Allstate Insurance: Fontella Van Camp",
+    "address": "8280 W Union Hills Dr",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85308",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "tioMC2-mHzW32Tu9qxcepA",
+    "name": "Ron Dunn Agency",
+    "address": "124 Ingram Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15205",
+    "stars": 4,
+    "categories": "Insurance, Financial Services, Life Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "pSt2df0jL189khzj5ngW4A",
+    "name": "Allstate Insurance Agent: The Valley West Agency",
+    "address": "9069 W Olive Ave, Ste A-104",
+    "city": "Peoria",
+    "state": "AZ",
+    "postal_code": "85345",
+    "stars": 5,
+    "categories": "Insurance, Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "9ySP50htb3PFWgmAx_yLqw",
+    "name": "Palomino Insurance Agency",
+    "address": "14555 N Scottsdale Rd, Ste 320",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85254",
+    "stars": 4,
+    "categories": "Home & Rental Insurance, Life Insurance, Auto Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "GofeUkCl94KSq6dqBtenxQ",
+    "name": "Sean Stewart Agency - American Family Insurance",
+    "address": "2520 Saint Rose Pkwy, Ste 103",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 3.5,
+    "categories": "Home & Rental Insurance, Life Insurance, Financial Services, Real Estate Agents, Real Estate, Auto Insurance, Home Services, Insurance"
+  },
+  {
+    "business_id": "Z10IxsMvkbt-sfrg8OJpow",
+    "name": "Allstate Insurance: Maria Miuccio",
+    "address": "4195 S Grand Canyon Dr, Ste 106",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "f6Rmxt7iyD9VQPSBRtyJBQ",
+    "name": "Brett Gaboury - State Farm Insurance Agent",
+    "address": "7373 N Scottsdale Rd, Ste A240",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85253",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "SujRQoprIz-FhzRICiHeNA",
+    "name": "Imes Insurance Associates",
+    "address": "2045 S Vineyard, Ste 152",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85210",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "ICb40uV-PUL1hSJjaHEnJQ",
+    "name": "Don Neeley Agency",
+    "address": "8155 E Indian Bend Rd, Ste 105",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85250",
+    "stars": 5,
+    "categories": "Life Insurance, Financial Services, Auto Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "km2PtgozRgycboykaYXgCQ",
+    "name": "Rural Mutual Insurance Company",
+    "address": "1241 John Q Hammons Dr",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53717",
+    "stars": 2.5,
+    "categories": "Insurance, Life Insurance, Home & Rental Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "eJ55rNlpb6aRYKBImBIOGA",
+    "name": "1source Insurance Group",
+    "address": "3606 N Rancho Dr, Ste 140",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89130",
+    "stars": 5,
+    "categories": "Auto Insurance, Financial Services, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "X2npIOOjxpIRtrF3xgkk1A",
+    "name": "American Family Insurance - Heather Spencer Agency",
+    "address": "7345 S Durango Dr, Ste 108",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89113",
+    "stars": 4,
+    "categories": "Insurance, Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "4f9zyUI3loYe1z6lXLip8g",
+    "name": "Freeway Insurance",
+    "address": "5645 Spring Mountain Rd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Insurance, Financial Services, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "KfyXFYuRTEJTisPMsrDOpQ",
+    "name": "Alliance Insurance Agency",
+    "address": "1955 E Tropicana Ave, Ste H",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89119",
+    "stars": 5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "GdlrKQaR_BHqAQ6WO5UKSA",
+    "name": "Kurt Bojarski -  American Family Insurance",
+    "address": "700 N Estrella Pkwy, Ste 200",
+    "city": "Goodyear",
+    "state": "AZ",
+    "postal_code": "85338",
+    "stars": 3.5,
+    "categories": "Life Insurance, Auto Insurance, Home & Rental Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "GE2I21ZJMlrOtJ1_dnRCEA",
+    "name": "GEICO Insurance Agent",
+    "address": "9325 Center Lake Dr, Ste 130",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28216",
+    "stars": 4.5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "VAtV52a5etfyCYrVHLUJJQ",
+    "name": "Sagicor Life Insurance Company",
+    "address": "4343 N Scottsdale Rd, Ste 300",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85251",
+    "stars": 2.5,
+    "categories": "Financial Advising, Insurance, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "-oZtmu_M3Q2uc6HbzCxVFQ",
+    "name": "Bruno Nascimento - Health Insurance Broker",
+    "address": "",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85225",
+    "stars": 4.5,
+    "categories": "Health & Medical, Insurance, Health Insurance Offices, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "HPf2w40jVbz3vErI22rz4g",
+    "name": "Melanie Foushee Poteat Insurance",
+    "address": "",
+    "city": "Huntersville",
+    "state": "NC",
+    "postal_code": "28078",
+    "stars": 2.5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "YklSTCQsb1chav_BqvKfUg",
+    "name": "Rueck Insurance",
+    "address": "702 Bloomington Rd, Ste 205",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "stars": 5,
+    "categories": "Auto Insurance, Life Insurance, Insurance, Professional Services, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "Un7kvJDRWtSQkMZddMnlSg",
+    "name": "Freeway Insurance",
+    "address": "4041 E Thomas Rd, Ste 109",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85018",
+    "stars": 3,
+    "categories": "Insurance, Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "0M4fn7ib4zJF6CF0XPLSfg",
+    "name": "Allstate Insurance: Regan and Ginger Agency",
+    "address": "6020 W Flamingo Rd, Ste 12",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89103",
+    "stars": 4.5,
+    "categories": "Financial Services, Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "vgdTO9LqZ07k7Bz2KHBhrw",
+    "name": "Phoenix Health Insurance",
+    "address": "21620 N 19th Ave, Ste A-5",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85027",
+    "stars": 4.5,
+    "categories": "Financial Services, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "KF3E3GeUD2NXeXeUl91GYg",
+    "name": "Allstate Insurance: Don Stoll",
+    "address": "3030 S Rural Rd, Ste 104",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85282",
+    "stars": 2,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "72VeMkF5kS8fBs2apxmsmg",
+    "name": "Craveiro Agency - All Nevada Insurance",
+    "address": "2525 W Horizon Ridge Pkwy, Ste 210",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 4,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "eJA5nK0Td5c3ogMNpvDteA",
+    "name": "Allstate Insurance: Scott Feit",
+    "address": "431 W Cottage Grove Rd",
+    "city": "Cottage Grove",
+    "state": "WI",
+    "postal_code": "53527",
+    "stars": 4,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "84Afv7WdD0RZ4nTK2W5KXA",
+    "name": "Allstate Insurance: William Duran",
+    "address": "6731 W Alexander Rd, Ste 106",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89108",
+    "stars": 2.5,
+    "categories": "Financial Services, Insurance, Life Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "T7O79jOeJ00NysW6lsXpTw",
+    "name": "Allstate Insurance: Brittny Perry",
+    "address": "4990 W Craig Rd, Ste A-7",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89130",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "lSzkXsRdC6Y5QWetgyshwQ",
+    "name": "Ethan J Pickner- USHealth Advisors",
+    "address": "11024 N 28th Dr, Ste 240",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85029",
+    "stars": 5,
+    "categories": "Life Insurance, Health & Medical, Health Insurance Offices, Insurance, Financial Services"
+  },
+  {
+    "business_id": "nE839kwA1bRZVYKNMx2dWw",
+    "name": "Brooks Whitmore - State Farm Insurance Agent",
+    "address": "5513 S Eastern Ave",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89119",
+    "stars": 4.5,
+    "categories": "Financial Services, Life Insurance, Home & Rental Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "dYdfK-7eQEXC5vaBM9iDpg",
+    "name": "Toro Insurance and Taxes",
+    "address": "3300 S Decatur Blvd, Ste 12",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89102",
+    "stars": 3.5,
+    "categories": "Life Insurance, Auto Insurance, Roadside Assistance, Tax Services, Automotive, Insurance, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "yhIZGPqNp76xxeN7UC75qA",
+    "name": "Allstate Insurance Agent: Yvette Beck",
+    "address": "7435 W Azure Dr, Ste 150",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89130",
+    "stars": 2.5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "m_Ya56gz3GYv_moJIGnCkg",
+    "name": "American Family Insurance - Matthew Meron Agency",
+    "address": "6440 N Durango Dr, Ste 144",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89149",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Life Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "ywkqeOQJ8prz7-a6rGWumQ",
+    "name": "Valley West Mortgage",
+    "address": "8010 W Sahara Ave, Ste 140",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 3.5,
+    "categories": "Financial Services, Insurance, Home & Rental Insurance, Auto Insurance, Life Insurance, Mortgage Lenders, Mortgage Brokers, Home Services, Real Estate"
+  },
+  {
+    "business_id": "YIB0G07n6ZS1ujqXkUsPcw",
+    "name": "Insurance Savers",
+    "address": "6522 N 16th St, Ste 3",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85016",
+    "stars": 2.5,
+    "categories": "Financial Services, Home & Rental Insurance, Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "9Wcbia0wKpitwUGuDQ9b7w",
+    "name": "Dawn Black - US Health Advisors",
+    "address": "11024 N 28th Dr, Ste 240",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85029",
+    "stars": 5,
+    "categories": "Health & Medical, Life Insurance, Health Insurance Offices, Insurance, Financial Services"
+  },
+  {
+    "business_id": "X07RdsUxbNJlAdMsqj9Bpw",
+    "name": "Harold Loyd Insurance Agency",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89145",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "Y2O3x0yv75IjytcoVcPuHg",
+    "name": "Diana Xu - State Farm Insurance Agent",
+    "address": "6450 Spring Mountain Rd, Ste 10",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Insurance, Life Insurance, Financial Services"
+  },
+  {
+    "business_id": "VHlzOgycjgbnyyE2CiB8aA",
+    "name": "Homestead Insurance Agency",
+    "address": "1324 Pearl Rd",
+    "city": "Brunswick",
+    "state": "OH",
+    "postal_code": "44212",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Financial Services, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "37YSr4e6_dDgnnfv4iqjiA",
+    "name": "Allstate Insurance Agent: The Taylor Family Agency",
+    "address": "8390 S Rainbow Blvd, Ste 104",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89139",
+    "stars": 3.5,
+    "categories": "Life Insurance, Financial Services, Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "D1Nt3Dct4B-r8z4Q7BgLOg",
+    "name": "Elite Insurance Group",
+    "address": "207 N Gilbert Rd, Ste 001",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85234",
+    "stars": 4.5,
+    "categories": "Life Insurance, Financial Advising, Auto Insurance, Financial Services, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "xDVkVo8vrTJw2KfKKFlx-A",
+    "name": "Allstate Insurance: Roger Bentley",
+    "address": "3740 E Southern Ave, Ste 201",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85206",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "Xx9zZ1eNqmJiNWo_txLzcQ",
+    "name": "Advance Insurance & Benefits",
+    "address": "6290 S Rainbow Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89118",
+    "stars": 4,
+    "categories": "Financial Services, Insurance, Home & Rental Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "NBOYSIooGU4R1DaVdLJQLA",
+    "name": "Mark Derrico - COUNTRY Financial representative",
+    "address": "2470 W Ray Rd, Bldg G, Ste 3",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85224",
+    "stars": 3.5,
+    "categories": "Insurance, Auto Insurance, Life Insurance, Financial Advising, Investing, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "dYpUzW3w52eFxayVmDQjdg",
+    "name": "Allstate Insurance Agent: Joe Kennedy",
+    "address": "1560 W Warner Rd, Ste 201",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85233",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "PeUHpCsJCIlmnRSeAmT52g",
+    "name": "Distinctive Insurance",
+    "address": "8375 W Flamingo Rd, Ste 102",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 4.5,
+    "categories": "Auto Insurance, Financial Services, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "RGVgrEOE7virBx2aqkbPbQ",
+    "name": "All Nevada Insurance",
+    "address": "2948 E Russell Rd, Ste A",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89120",
+    "stars": 4,
+    "categories": "Life Insurance, Home & Rental Insurance, Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "1nssK_8alg_UEdtZijj8wQ",
+    "name": "Justin Loeber Insurance",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89129",
+    "stars": 2,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "71OhIBf4pbL6CQoLeVjqng",
+    "name": "American Income Life Insurance Company",
+    "address": "8691 W Sahara Ave, Ste 200",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 4,
+    "categories": "Insurance, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "C1Mu8Sjk9ArI4c5z0DVXSQ",
+    "name": "Allstate Insurance: Kevin Lum",
+    "address": "5055 W Ray Rd, Ste 22",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85226",
+    "stars": 4,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "ZSSpHwi9Ks_1H_a-IAzCwQ",
+    "name": "David Sanders Insurance",
+    "address": "",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85044",
+    "stars": 4,
+    "categories": "Insurance, Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "LNjTazm_E1gT7pFDBTiWjQ",
+    "name": "Brock T Quinn - State Farm Insurance Agent",
+    "address": "8100 E Indian School Rd, Ste 102",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85251",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Financial Services, Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "fsk-sPpo1yIG0-kLKsvS5A",
+    "name": "American Family Insurance",
+    "address": "6000 American Pkwy",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53783",
+    "stars": 1.5,
+    "categories": "Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "y5J_HrtnnA2-nB6KZ4X0Xg",
+    "name": "Farmers Insurance - Joseph Fritz",
+    "address": "8900 E Pinnacle Peak Rd, Ste 220",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85255",
+    "stars": 3.5,
+    "categories": "Life Insurance, Insurance, Home & Rental Insurance, Financial Services, Auto Insurance"
+  },
+  {
+    "business_id": "o64dQ9LXZ_UfnzGDdVutbg",
+    "name": "AAA-Anthem",
+    "address": "10075 S Eastern Ave, Ste 109",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 4,
+    "categories": "Insurance, Roadside Assistance, Auto Repair, Travel Services, Hotels & Travel, Auto Insurance, Home & Rental Insurance, Life Insurance, Automotive, Towing, Financial Services, Investing"
+  },
+  {
+    "business_id": "PWYAO6wUhlJdFoIRKAotXg",
+    "name": "Allstate Insurance: Yuqing Zhang",
+    "address": "4089 Spring Mountain Rd, Ste 2",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89102",
+    "stars": 2.5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "uPOCtXFMpkCjllwAscQBDg",
+    "name": "Phaedra Earhart Insurance",
+    "address": "",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85296",
+    "stars": 5,
+    "categories": "Auto Insurance, Financial Services, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "Fvs3xMQQp2ftCxaxik3rcA",
+    "name": "Farmers Insurance - Birant Or",
+    "address": "2298 W Horizon Ridge Pkwy, Ste 100",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "UD9bpB7Y0mpLSptCy6atlA",
+    "name": "Superior Insurance - Travis McCray Agency",
+    "address": "6914 Matthews Mint Hill Rd, Ste 150",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28227",
+    "stars": 3.5,
+    "categories": "Home & Rental Insurance, Life Insurance, Auto Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "iOZ8nqLgnTFRJpgQTlTyww",
+    "name": "Coriano Insurance Agency",
+    "address": "4742 N 24th St, Ste 300A",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85016",
+    "stars": 5,
+    "categories": "Auto Insurance, Insurance, Life Insurance, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "jI8YbxlBz6pJVr6KfCOuBQ",
+    "name": "Pinnacle Peak Insurance Group",
+    "address": "8147 E Evans Rd, Ste B-07",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85260",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Insurance, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "WC4V4Pe6D1a4XOO7QyG9vQ",
+    "name": "Amber Arlint - State Farm Insurance Agent",
+    "address": "8850 S Maryland Pkwy, Ste 115",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89123",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "_mHF-SmblRQplYnl-vEtgA",
+    "name": "Allstate Insurance: Christina Piccirillo",
+    "address": "2510 Saint Rose Pkwy, Ste 130",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 2.5,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "LsNN1TB116Ero-qt4JtxPQ",
+    "name": "Allstate Insurance : Jason Thorpe",
+    "address": "3107 S Gilbert Rd, Ste 109",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85295",
+    "stars": 4.5,
+    "categories": "Insurance, Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "z71J8yVWQNVPG7huLZjvkg",
+    "name": "Quality Insurance",
+    "address": "1750 S Rainbow Blvd, Ste 23",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 4,
+    "categories": "Home & Rental Insurance, Auto Insurance, Financial Services, Insurance, Life Insurance, Professional Services"
+  },
+  {
+    "business_id": "9CDVmtG0diCIXcE64_j0Aw",
+    "name": "AAA - Las Vegas",
+    "address": "7445 S Durango Dr, Ste 103",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89113",
+    "stars": 4,
+    "categories": "Towing, Financial Services, Auto Insurance, Local Services, Notaries, Life Insurance, Home & Rental Insurance, Roadside Assistance, Insurance, Auto Repair, Hotels & Travel, Automotive, Travel Services"
+  },
+  {
+    "business_id": "zQdVsGQf2fePGfPydj_4-g",
+    "name": "Allstate Insurance Agent: Linda Baumann",
+    "address": "8090 S Durango Dr, Ste 111",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89113",
+    "stars": 4,
+    "categories": "Financial Services, Life Insurance, Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "5YCnRCaJYPJfYr75VtfP2A",
+    "name": "Insurance 4 Less",
+    "address": "10120 S Eastern Ave, Ste 202",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 4,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "59fXIyyCOLSaq0dMWuJWrA",
+    "name": "American Family Insurance - Luke Shafer Agency",
+    "address": "1717 E Bell Rd, Ste 7",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85022",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "r8rCPyqzG_V20UmASt6Bog",
+    "name": "Greene Insurance Group",
+    "address": "17470 N Pacesetter Way",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85255",
+    "stars": 4,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "iP0v4PCqrBirMrtUpAYZ_w",
+    "name": "Jay Papuga - State Farm Insurance Agent",
+    "address": "1 Forsythe Rd, Ste 2",
+    "city": "Presto",
+    "state": "PA",
+    "postal_code": "15142",
+    "stars": 2.5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "NJYIkLmPtv8WHRl5ObUDWg",
+    "name": "Raja Mourey Agency",
+    "address": "7795 W Sahara Ave, Ste 103, American Family Insurance",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "zUHnwQiwcEEcC-MEzRUBaQ",
+    "name": "All Nevada Insurance",
+    "address": "9440 W Sahara Ave, Ste 210",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 4.5,
+    "categories": "Financial Services, Life Insurance, Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "V-5mlbZrOGAH5Si_4grltw",
+    "name": "RMS Insurance Services",
+    "address": "1916 W Baseline Rd, Ste 8",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85202",
+    "stars": 4.5,
+    "categories": "Financial Services, Health Insurance Offices, Insurance, Life Insurance, Health & Medical"
+  },
+  {
+    "business_id": "chNmIN7GE035WIc_XQ1uzg",
+    "name": "Allstate Insurance: Tom Prince",
+    "address": "240 S Rainbow Blvd, Ste 4",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89145",
+    "stars": 4.5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "Kiz44CvR2dsDpOmDQ-6hQA",
+    "name": "Allstate Insurance: Jay LaSalle",
+    "address": "18325 N Allied Way, Ste 215",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85054",
+    "stars": 4,
+    "categories": "Financial Services, Insurance, Life Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "sRMB0sMH3Qgu7p0CF1U_Ow",
+    "name": "Colgrove Financial",
+    "address": "555 W Chandler Blvd, Ste 203",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85225",
+    "stars": 3.5,
+    "categories": "Life Insurance, Financial Services, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "l9K2pgSZGlM4U9JphrBBkA",
+    "name": "World Insurance Network",
+    "address": "1350 East Flamingo Rd, Ste 3095",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89119",
+    "stars": 5,
+    "categories": "Life Insurance, Health Insurance Offices, Health & Medical, Insurance, Auto Insurance, Financial Services, Home & Rental Insurance"
+  },
+  {
+    "business_id": "gzssN0rX1AcbZrNfujCaJw",
+    "name": "Elevate Insurance",
+    "address": "3160 W Sahara Ave, Ste A25",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89102",
+    "stars": 4,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Health Insurance Offices, Life Insurance, Health & Medical"
+  },
+  {
+    "business_id": "XVHaeJSS8g9wxLWcIuGI4w",
+    "name": "Liberty Mutual Insurance",
+    "address": "9005 South Pecos Rd, Ste 2530",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 2,
+    "categories": "Life Insurance, Auto Insurance, Financial Services, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "ONFGUvwL2ydwkTslp33whA",
+    "name": "Young Insurance Brokers",
+    "address": "70 E Horizon Ridge Pkwy, Ste 110",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89002",
+    "stars": 4,
+    "categories": "Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance, Automotive, Marketing, Registration Services, Smog Check Stations, Health & Medical, Financial Services, Professional Services, Health Insurance Offices"
+  },
+  {
+    "business_id": "jErpeAt_EMrAMpvarnqalQ",
+    "name": "Xeration Services",
+    "address": "6431 W Sahara Ave, Ste 200",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 4.5,
+    "categories": "Life Insurance, Notaries, Tax Services, Local Services, Financial Services, Fingerprinting, Printing Services, CPR Classes, Specialty Schools, Auto Insurance, Education, Insurance"
+  },
+  {
+    "business_id": "ls4hBAON7wJTDR7QS7wzLw",
+    "name": "Farmers Insurance - Bonnie Grant",
+    "address": "223 S Water St, Ste B",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89015",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "05Gzb-XmOHibRxJOB0VOpA",
+    "name": "All Nevada Insurance",
+    "address": "9640 W Tropicana Ave, Ste 112",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "l1ij8rDLOV1NCvNQDaUgwQ",
+    "name": "Allstate Insurance: Benjamin Helbein",
+    "address": "401 E Blvd, Ste 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28203",
+    "stars": 3.5,
+    "categories": "Life Insurance, Insurance, Financial Services, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "r2kwwrsm3GF-xI5F2RlUMA",
+    "name": "Ron Heyman Insurance Agency",
+    "address": "15410 N 67th Ave, Ste 4, American Family Insurance",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85306",
+    "stars": 5,
+    "categories": "Insurance, Life Insurance, Auto Insurance, Financial Services, Home & Rental Insurance"
+  },
+  {
+    "business_id": "xQBiviYOBrmWS-CtrOjpng",
+    "name": "Melanie Stone - State Farm Insurance Agent",
+    "address": "8811 Blakeney Professional Dr, Ste 110",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28277",
+    "stars": 5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Financial Services, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "we6J4GZlSrEwq4aINc4Rdw",
+    "name": "Chad Gregorini - State Farm Insurance Agent",
+    "address": "4 Center Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15215",
+    "stars": 5,
+    "categories": "Professional Services, Auto Insurance, Home & Rental Insurance, Life Insurance, Investing, Insurance, Financial Services, Banks & Credit Unions"
+  },
+  {
+    "business_id": "G1CFbktudpb62oiVvCLdMQ",
+    "name": "King Insurance & Financial Services",
+    "address": "181 W Bagley Rd",
+    "city": "Berea",
+    "state": "OH",
+    "postal_code": "44017",
+    "stars": 5,
+    "categories": "Insurance, Investing, Life Insurance, Auto Insurance, Financial Services, Financial Advising"
+  },
+  {
+    "business_id": "4PDn42er4pMWip6-G3r_9Q",
+    "name": "Amerisent Insurance",
+    "address": "1000 Nevada Way, Ste 108",
+    "city": "Boulder City",
+    "state": "NV",
+    "postal_code": "89005",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Life Insurance, Financial Services, Home & Rental Insurance"
+  },
+  {
+    "business_id": "OGook49XfpOzHrn9elTv3Q",
+    "name": "Kevin Godfrey: Allstate Insurance",
+    "address": "103 Waxhaw Professional Park Dr, Ste C",
+    "city": "Waxhaw",
+    "state": "NC",
+    "postal_code": "28173",
+    "stars": 3,
+    "categories": "Financial Services, Life Insurance, Home & Rental Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "m2s4m9mSroqXZMKoS_P7vA",
+    "name": "Allstate Insurance Agent: Gary Hodum",
+    "address": "9770 S Maryland Pkwy, Ste 9",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89183",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "6rXMgnLtdEPath2PQji1NQ",
+    "name": "American Income Life Insurance",
+    "address": "100 Kingston Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15235",
+    "stars": 2.5,
+    "categories": "Insurance, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "82gjsdOfdCqrgd6gxKqbrA",
+    "name": "Jack Chumadevsky - GEICO Insurance",
+    "address": "815 E Baseline Rd, Ste 105",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85283",
+    "stars": 4,
+    "categories": "Life Insurance, Financial Services, Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "og3xwzBfWE-KthoLCWT7Jg",
+    "name": "J William Quigley - State Farm Insurance Agent",
+    "address": "825 W Warner Rd",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85225",
+    "stars": 5,
+    "categories": "Financial Services, Banks & Credit Unions, Insurance, Home & Rental Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "-hnqU4j1uuW5uD7CnW-jrw",
+    "name": "GEICO Insurance Agent",
+    "address": "9515 W Camelback Rd, Ste 134",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85037",
+    "stars": 2.5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "RZCwCc3wxjJEVXMKGbggfw",
+    "name": "American Family Insurance - Jeff Gray Agency",
+    "address": "3651 E Baseline Rd, Ste E-203",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85234",
+    "stars": 3.5,
+    "categories": "Insurance, Auto Insurance, Life Insurance, Financial Services, Home & Rental Insurance"
+  },
+  {
+    "business_id": "VHP1_x-VA5XxDldwpsFjZw",
+    "name": "American Family Insurance - Martie Troisi Agency",
+    "address": "34406 N 27th Dr, Ste 5-136",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85085",
+    "stars": 5,
+    "categories": "Life Insurance, Auto Insurance, Home & Rental Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "M35msZRXNwe6lrjWOwFmRg",
+    "name": "Jen Sias-Lyke - State Farm Insurance Agent",
+    "address": "8060 S Rainbow Blvd, Ste 120",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89139",
+    "stars": 3.5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "8iIALK9BTSKRqzY4YM7RAg",
+    "name": "Mountain Pacific Insurance And Financial Services",
+    "address": "7040 Laredo St, Ste H",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 5,
+    "categories": "Investing, Financial Services, Insurance, Auto Insurance, Financial Advising, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "xncM4Pcodfy6xcI6iQeL2Q",
+    "name": "American Family Insurance - Dave Markus Agency",
+    "address": "5777 S Rural Rd, Ste 2",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85283",
+    "stars": 5,
+    "categories": "Life Insurance, Auto Insurance, Insurance, Financial Services, Home & Rental Insurance, Professional Services"
+  },
+  {
+    "business_id": "3zVQTiuTnnk4k7NUAIVoFQ",
+    "name": "Edward Vasquez - Allstate Insurance",
+    "address": "3508 N 7th St, Ste 115",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85014",
+    "stars": 4,
+    "categories": "Life Insurance, Financial Services, Home & Rental Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "24xxPan0fvkN6wOWIwmS_g",
+    "name": "Jen Sias-Lyke - State Farm Insurance Agent",
+    "address": "9701 W Flamingo Rd, Ste 3",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 4.5,
+    "categories": "Financial Services, Insurance, Life Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "CguCUzbMSsEUukwrtJV8ig",
+    "name": "Perry Olson - State Farm Insurance Agent",
+    "address": "9850 S Maryland Pkwy, Ste 7",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89183",
+    "stars": 4,
+    "categories": "Financial Services, Home & Rental Insurance, Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "9GiBGaR3uQpQzZGlWf90VQ",
+    "name": "Allstate Insurance Agent: Jeremy Peltz",
+    "address": "3215 Saint Rose Pkwy, Ste 120",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 5,
+    "categories": "Automotive, Auto Insurance, Home & Rental Insurance, Insurance, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "jNcQGu4rNcwo0BMMJUiCxA",
+    "name": "Krell Financial Group",
+    "address": "3303 E Baseline Rd, Ste 106",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85234",
+    "stars": 5,
+    "categories": "Financial Services, Financial Advising, Life Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "uJmztx2Y9JuR0f43C1X2mQ",
+    "name": "Arrowhead Insurance",
+    "address": "9844 W Yearling Rd, Ste D-1160",
+    "city": "Peoria",
+    "state": "AZ",
+    "postal_code": "85383",
+    "stars": 5,
+    "categories": "Insurance, Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "TrG5nNYVJ_BEu_8VVSxR3Q",
+    "name": "Andy Orlikoff - American Insurance Benefits",
+    "address": "14955 W Bell Rd, Ste 8031",
+    "city": "Surprise",
+    "state": "AZ",
+    "postal_code": "85374",
+    "stars": 4,
+    "categories": "Health & Medical, Financial Services, Insurance, Health Insurance Offices, Life Insurance"
+  },
+  {
+    "business_id": "2ux8STqB09dO3DgjxO4KSA",
+    "name": "Allstate Insurance: Moe Elousta",
+    "address": "1955 E Tropicana Ave, Ste I",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89119",
+    "stars": 2,
+    "categories": "Financial Services, Insurance, Home & Rental Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "b29_s_HVCp1osZiy27Feog",
+    "name": "Jeff Jirele - State Farm Insurance Agent",
+    "address": "4729 E Ray Rd, Ste B-3",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85044",
+    "stars": 4,
+    "categories": "Financial Services, Insurance, Banks & Credit Unions, Home & Rental Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "VsenRYkMsUMNMHykvkeZog",
+    "name": "George Morse IV Insurance",
+    "address": "",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89148",
+    "stars": 2.5,
+    "categories": "Financial Services, Insurance, Life Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "pN-qHhdu5ll3e6Wn1yaMkQ",
+    "name": "Preston & Grafton Insurance Agency",
+    "address": "2008 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "t9Onm3CulaEB9uXX7wkbaA",
+    "name": "Allstate Insurance : Nicholas Sakha",
+    "address": "4440 S Durango Dr, Ste F",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 4.5,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "VYgdieG0wfNzEpXgtZH4oQ",
+    "name": "Farmers Insurance - Chad J. Connelly",
+    "address": "4447 E Broadway Rd, Ste 104",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85206",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Financial Services, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "Q4wi1vs35hEiMtT2P1WKpQ",
+    "name": "Kathy Kline: Allstate Insurance",
+    "address": "8880 S Maryland Pkwy, Ste 120",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89123",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "kthxbk1itRZjMYbNi0_lKQ",
+    "name": "Allstate Insurance: Michael Westra",
+    "address": "205 N Stephanie St, Ste E",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 4,
+    "categories": "Home & Rental Insurance, Financial Services, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "Le47vXWPnsxig78qeEz6ZQ",
+    "name": "Legacy Insurance Group",
+    "address": "3595 S Towncenter Dr, Ste 105",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89135",
+    "stars": 3.5,
+    "categories": "Real Estate Services, Life Insurance, Home & Rental Insurance, Insurance, Auto Insurance, Real Estate, Financial Services, Home Services"
+  },
+  {
+    "business_id": "XwMIqHJzE1ePnno5MC1Zcw",
+    "name": "Allstate Insurance: Peter Zipp",
+    "address": "2403 N Pebble Creek Pkwy, Ste 110",
+    "city": "Goodyear",
+    "state": "AZ",
+    "postal_code": "85395",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "wM5hXxZHSB4a6UhJxIwtJg",
+    "name": "Allstate Insurance: Jason Tuttle",
+    "address": "985 W Chandler Heights Rd, Ste 3",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85248",
+    "stars": 5,
+    "categories": "Financial Services, Life Insurance, Auto Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "OiabkzRAQGVgSG3Mx-Fp5Q",
+    "name": "Michael Pinta Agency - American Family Insurance",
+    "address": "5505 W Chandler Blvd, Ste 19",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85226",
+    "stars": 3.5,
+    "categories": "Home & Rental Insurance, Financial Services, Life Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "-cMZseG83WjioeJytzrM3g",
+    "name": "AAA Green Valley",
+    "address": "1000 N Green Valley Pkwy, Ste 620",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89074",
+    "stars": 3,
+    "categories": "Roadside Assistance, Auto Repair, Automotive, Towing, Local Services, Home & Rental Insurance, Insurance, Financial Services, Travel Agents, Notaries, Life Insurance, Auto Insurance, Travel Services, Hotels & Travel"
+  },
+  {
+    "business_id": "l5oY2R-j6UTXqY-gdIJU2Q",
+    "name": "Stewart Title",
+    "address": "4670 South Fort Apache Rd, Ste 275",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 2,
+    "categories": "Insurance, Real Estate, Life Insurance, Real Estate Services, Home & Rental Insurance, Financial Services, Auto Insurance, Home Services"
+  },
+  {
+    "business_id": "MlVWchLD01pDxVHMfgX_Ng",
+    "name": "Farmers Insurance - Eliam Marcos Marrero Bernal",
+    "address": "3455 W Craig Rd, Ste D",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89032",
+    "stars": 4,
+    "categories": "Tax Services, Home & Rental Insurance, Financial Advising, Notaries, Investing, Life Insurance, Insurance, Auto Insurance, Financial Services, Local Services"
+  },
+  {
+    "business_id": "Fk3Zav0PPGUTD1Fs6pUYgw",
+    "name": "AAA - Huntersville",
+    "address": "9931 Knockando Ln",
+    "city": "Huntersville",
+    "state": "NC",
+    "postal_code": "28078",
+    "stars": 3,
+    "categories": "Roadside Assistance, Travel Services, Automotive, Auto Insurance, Insurance, Tours, Financial Services, Hotels & Travel, Life Insurance, Auto Repair"
+  },
+  {
+    "business_id": "-GFPQagbSjgywMZTKoZdTA",
+    "name": "David Klatt - American Family Insurance",
+    "address": "633 E Ray Rd, Ste 114",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85296",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "mpnS5lxkP4heH_BdzXX2wg",
+    "name": "Allstate Insurance: Fred Ledford",
+    "address": "6655 W Sahara Ave, Ste C116",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 4.5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "SIk6Qh0Ldb9Bw4TBHDkERQ",
+    "name": "Brian Moore - American Family Insurance",
+    "address": "5150 N 16th St, Ste C162",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85016",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "mi83z2NkFXNknx-fN75kzw",
+    "name": "Kendal Haynie Jr - American Family Insurance",
+    "address": "6348 S Rainbow Blvd, Ste 100A",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89118",
+    "stars": 4.5,
+    "categories": "Insurance, Auto Insurance, Home & Rental Insurance, Life Insurance, Financial Services"
+  },
+  {
+    "business_id": "Sq4SXCKo57WogWKjJGPF5Q",
+    "name": "Allstate Insurance: Alex Kleytman",
+    "address": "1291 Galleria Dr, Ste 125",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89014",
+    "stars": 4,
+    "categories": "Financial Services, Life Insurance, Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "cEMpozeBNFw3kJKw0mz0bg",
+    "name": "Executives Insurance Agency",
+    "address": "4820 S Mill Ave, Ste 202",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85282",
+    "stars": 1.5,
+    "categories": "Auto Insurance, Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "DaQka_7vgUSP7HjDpdJX-A",
+    "name": "Citywide Insurance",
+    "address": "1529 W Thomas Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85015",
+    "stars": 1,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "M9TjYmTgHayJ22cNkyvW_g",
+    "name": "GEICO Insurance Agent",
+    "address": "301 E Woodlawn Rd, Ste 2",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28217",
+    "stars": 3,
+    "categories": "Financial Services, Insurance, Life Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "ezFFBKMriR085N7PTU1Gtw",
+    "name": "Allstate Insurance Agent: Heather Everette",
+    "address": "15414 N 7th St, Ste 9",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85022",
+    "stars": 4,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "KGHBfJKVpD8cNhb-_wWj9w",
+    "name": "Melissa Hudson - Allstate Insurance",
+    "address": "270 E Horizon Dr, Ste 107",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89015",
+    "stars": 4,
+    "categories": "Financial Services, Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "sY8XRM7BWjdTFkDhYlWg4w",
+    "name": "Chris Roden - American Family Insurance",
+    "address": "7633 E Acoma Dr, Ste 207a",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85260",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "sAhIUjf_0SpoPz1f8Z3Tdg",
+    "name": "T & T Insurance Group",
+    "address": "800 N Rainbow Blvd, Ste 208",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89107",
+    "stars": 5,
+    "categories": "Auto Insurance, Financial Services, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "HvZ_fSa236y2Y6--k8klIw",
+    "name": "Curtis Clark - Allstate Insurance",
+    "address": "7045 W Ann Rd, Ste 140",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89130",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "HdjF5e7cSgLlW80T3dSxBw",
+    "name": "Lisa RO Ross State Farm Insurance Agency",
+    "address": "14071 W Bell Rd, Ste 105",
+    "city": "Surprise",
+    "state": "AZ",
+    "postal_code": "85374",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Banks & Credit Unions, Financial Services, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "X8gL4rK65lsFmh-vFK1MGw",
+    "name": "Shelley Grandidge Insurance",
+    "address": "",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85306",
+    "stars": 3.5,
+    "categories": "Insurance, Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "st-qEHMnbX9o8n2qoNFwuA",
+    "name": "CDS Insurance Agency",
+    "address": "706 E Bell Rd, Ste 211",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85022",
+    "stars": 3,
+    "categories": "Financial Services, Insurance, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "m2rxwxGOJRtmM-MUIZR3JQ",
+    "name": "Farmers Insurance - Jeffrey Venuto",
+    "address": "7965 S Rainbow Blvd, Ste 100",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89139",
+    "stars": 4.5,
+    "categories": "Insurance, Financial Services, Investing, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "QX_NhIW15o9jtoiLvwlZmA",
+    "name": "Allstate Insurance: Rebecca Niessink",
+    "address": "29834 N Cave Creek Rd, Ste 132",
+    "city": "Cave Creek",
+    "state": "AZ",
+    "postal_code": "85331",
+    "stars": 4,
+    "categories": "Auto Insurance, Financial Services, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "u_DxFjZmwdZsaL9qR0Yh7A",
+    "name": "Latorre Insurance",
+    "address": "4801 E Independence Blvd, Ste 300",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28212",
+    "stars": 5,
+    "categories": "Professional Services, Accountants, Financial Services, Life Insurance, Health Insurance Offices, Auto Insurance, Health & Medical, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "byTX6cD0rMskM3SidJ4SkQ",
+    "name": "Allstate Insurance Agent: Sheri Shull",
+    "address": "5852 E McKellips Rd, Ste 109",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85215",
+    "stars": 4,
+    "categories": "Insurance, Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "aCBv9qeXGi7PvBn0W6X73A",
+    "name": "Bovaird Insurance Agency",
+    "address": "9299 W Olive Ave, Ste 304",
+    "city": "Peoria",
+    "state": "AZ",
+    "postal_code": "85345",
+    "stars": 4,
+    "categories": "Life Insurance, Auto Insurance, Insurance, Financial Services, Home & Rental Insurance"
+  },
+  {
+    "business_id": "YfPHmToBq2IPJPhfDwqeeg",
+    "name": "Arredondo & Arredondo Insurance",
+    "address": "2130 S Rural Rd",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85282",
+    "stars": 3.5,
+    "categories": "Insurance, Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "MHdY00QVbvcfIlZk7DVVSw",
+    "name": "Lincoln Heritage Life Insurance Company",
+    "address": "4343 E Camelback Rd, Ste 400",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85018",
+    "stars": 3.5,
+    "categories": "Life Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "ASC0wW7TYI_en2iWkgEfVA",
+    "name": "Allstate Insurance: Thomas Finch",
+    "address": "7766 W Sahara Ave",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 5,
+    "categories": "Financial Advising, Home & Rental Insurance, Life Insurance, Financial Services, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "H-32N5Y442_vZbOo5CQ90A",
+    "name": "AMS Insurance",
+    "address": "9960 W Cheyenne Ave, Ste 240",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89129",
+    "stars": 4.5,
+    "categories": "Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "HE35Ycd4gQizsEEvzfl1lA",
+    "name": "Red Rock Insurance",
+    "address": "1958 Village Center Cir, Ste 5",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89134",
+    "stars": 3.5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "b_OD1zURhcRaFZxH-96LYg",
+    "name": "Allstate Insurance Agent: David Vickers",
+    "address": "4937 Charlotte Hwy, Ste 104",
+    "city": "Lake Wylie",
+    "state": "SC",
+    "postal_code": "29710",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "Rmq4EPT3K7I2t5vXqtqRuA",
+    "name": "Perry Olson - State Farm Insurance Agent",
+    "address": "565 Marks St, Ste 100",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89014",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "Un_8Bz2I5UDGMophel3AKg",
+    "name": "Trajan Wealth",
+    "address": "7702 E Doubletree Ranch Rd, Ste 100",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85258",
+    "stars": 4,
+    "categories": "Professional Services, Financial Services, Financial Advising, Accountants, Insurance, Life Insurance, Investing, Tax Services"
+  },
+  {
+    "business_id": "KbPgywB4Wffmjq7jdez_tg",
+    "name": "Allstate Insurance: Mark Taylor",
+    "address": "10608 S Eastern Ave, Ste G",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "NcbTo7Op4wC0ZLmSA70FQQ",
+    "name": "Allstate Insurance: Shawn Schaffer",
+    "address": "2240 N Scottsdale Rd, Ste 101",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85281",
+    "stars": 5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "Sjx-QWWH0683ep3dTgqg5A",
+    "name": "Farmers Insurance - Carmella Larkins",
+    "address": "5060 S Fort Apache Rd, Ste 110",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89148",
+    "stars": 5,
+    "categories": "Investing, Auto Insurance, Financial Services, Insurance, Life Insurance, Financial Advising"
+  },
+  {
+    "business_id": "D91rgeK8Tjqde_UwrjpkHw",
+    "name": "American Family Insurance - Dee Harrison Agency",
+    "address": "16605 E Palisades Blvd, Ste 118",
+    "city": "Fountain Hills",
+    "state": "AZ",
+    "postal_code": "85268",
+    "stars": 4,
+    "categories": "Home & Rental Insurance, Insurance, Life Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "aJIr_v07obSTxqJVwcq1rw",
+    "name": "Corey Griffith - State Farm Insurance Agent",
+    "address": "1143 S Braddock Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15218",
+    "stars": 2.5,
+    "categories": "Auto Insurance, Life Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "z81aki8YTG1QTFonFsLADw",
+    "name": "SilverScript Medicare",
+    "address": "",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85072",
+    "stars": 1,
+    "categories": "Insurance, Life Insurance, Financial Services, Health & Medical"
+  },
+  {
+    "business_id": "3W18FpEP9FFfRgUI6dFeIQ",
+    "name": "Farmers Insurance - Glenn Grossman",
+    "address": "6061 E Cave Creek Rd, Ste 2",
+    "city": "Cave Creek",
+    "state": "AZ",
+    "postal_code": "85331",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "8BXPF6KBZPWl1EfGDfJVYg",
+    "name": "Sean Overlock - State Farm Insurance Agent",
+    "address": "20860 N Tatum Blvd, Ste 280",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85050",
+    "stars": 5,
+    "categories": "Financial Advising, Banks & Credit Unions, Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "RfTcnKzUDIrrwx_vOViDQg",
+    "name": "Freeway Insurance",
+    "address": "6804 N 51st Ave",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85301",
+    "stars": 1,
+    "categories": "Insurance, Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "UZAIJ4MEB4dhl_DXH9ufrw",
+    "name": "Allstate Insurance : Weston Prince",
+    "address": "2125 Civic Center Dr",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89030",
+    "stars": 2.5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Financial Services, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "dkWfTWbWudgMRmK85vJbrQ",
+    "name": "Fox Reliable Insurance",
+    "address": "4930 E Main St, Ste 9",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85205",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Life Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "vNrtn0yjhUuzar4hrQNHAg",
+    "name": "Magelan Group",
+    "address": "4539 N 22nd St, Ste 100",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85016",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "RIbcYeC8tZ-yNWRisFOVYQ",
+    "name": "Robert Smith - State Farm Insurance",
+    "address": "1834 E Baseline Rd, Ste 103",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85283",
+    "stars": 3.5,
+    "categories": "Insurance, Home & Rental Insurance, Financial Services, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "bc-uLHzTIfhbw4B5lD35tg",
+    "name": "Samuel Peters: Allstate Insurance",
+    "address": "8919 W Sahara Ave, Ste 150",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 2.5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "xs8f-TmxzXE1eND6UC-cKg",
+    "name": "Vanyo Insurance Group",
+    "address": "8040 E Morgan Trl, Ste 5A",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85258",
+    "stars": 5,
+    "categories": "Auto Insurance, Real Estate Services, Real Estate, Home Services, Home & Rental Insurance, Automotive, Insurance, Financial Services, Auto Loan Providers, Life Insurance"
+  },
+  {
+    "business_id": "AulySnEHeA0m0GT4hcPbpQ",
+    "name": "American Family Insurance - Kevin Gillan Agency",
+    "address": "4910 E Elliot Rd, Ste 100",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85044",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "SDZf1Q7ez4FOdydWhGkciQ",
+    "name": "Ventura Alejandro Hernandez - State Farm Insurance Agent",
+    "address": "1615 W Camelback Rd, Ste 102",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85015",
+    "stars": 5,
+    "categories": "Insurance, Life Insurance, Financial Services, Auto Insurance"
+  },
+  {
+    "business_id": "n9gUOeA_8bhW71knegEDhw",
+    "name": "Nevada Insurance Solutions",
+    "address": "400 S Jones Blvd, Ste 104",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89107",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Financial Services, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "5g3YtscFtp_wwxpE4sBG8A",
+    "name": "Nevada West Business Insurance",
+    "address": "4175 S Riley St, Ste 102",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89147",
+    "stars": 5,
+    "categories": "Life Insurance, Auto Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "Omxop97H-lxhxl_a6VghtA",
+    "name": "Allstate Insurance: William Hazlett",
+    "address": "1200 W University Dr, Ste 105",
+    "city": "Tempe",
+    "state": "AZ",
+    "postal_code": "85281",
+    "stars": 3,
+    "categories": "Financial Services, Insurance, Home & Rental Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "GFK35HKSCPFlDeHei27VoQ",
+    "name": "Allstate Insurance : Smith & Schmidt Agency",
+    "address": "927 Main St",
+    "city": "Grafton",
+    "state": "OH",
+    "postal_code": "44044",
+    "stars": 2.5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "4Rn8XCodo_tqNPUhgeBmWg",
+    "name": "General Agent Center",
+    "address": "8700 E Vista Bonita Dr, Ste 174",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85255",
+    "stars": 3.5,
+    "categories": "Marketing, Home Health Care, Financial Services, Health & Medical, Professional Services, Life Insurance, Health Insurance Offices, Insurance"
+  },
+  {
+    "business_id": "JT7RFSsdwXmDVGTLbHiKHA",
+    "name": "Darren Mullins - All Needs Covered Insurance Solutions",
+    "address": "17207 N Perimeter Dr",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85037",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Life Insurance, Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "03CPJNrFQsVPjSjoKEM-yQ",
+    "name": "Nevada Benefits",
+    "address": "9505 Hillwood Dr, Ste 100",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89134",
+    "stars": 4,
+    "categories": "Investing, Health & Medical, Health Insurance Offices, Insurance, Financial Advising, Financial Services, Life Insurance"
+  },
+  {
+    "business_id": "PdMJaqLknKa3UfyVofLgYg",
+    "name": "Ryan Goggins - Liberty Mutual Insurance",
+    "address": "14050 N 83rd Ave, Ste 100",
+    "city": "Peoria",
+    "state": "AZ",
+    "postal_code": "85381",
+    "stars": 5,
+    "categories": "Life Insurance, Financial Services, Auto Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "-6pjRBsLbkHyGcohvu_Jkw",
+    "name": "Josh Epstein - Farmers Insurance",
+    "address": "13402 N Scottsdale Rd, Ste A-105",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85254",
+    "stars": 5,
+    "categories": "Life Insurance, Insurance, Financial Services, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "xX4EYYO534nfQKiGWB6JZA",
+    "name": "Allstate Insurance: Misty Chadwick",
+    "address": "2620 Regatta Dr, Ste 122",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89128",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Life Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "6EDpBi8FbIc4o8-cZ34kPg",
+    "name": "Cornerstone Benefits & Insurance",
+    "address": "6881 W Charleston Blvd, Ste A",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 5,
+    "categories": "Health & Medical, Insurance, Life Insurance, Financial Services, Health Insurance Offices"
+  },
+  {
+    "business_id": "9y2keyAiQ1Lq5pR5JXJsFA",
+    "name": "Medicare Guidance Center",
+    "address": "6040 E Main St 101",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85205",
+    "stars": 5,
+    "categories": "Life Insurance, Health & Medical, Medical Centers, Health Insurance Offices, Insurance, Financial Services"
+  },
+  {
+    "business_id": "8GBC8o-i-gWyhqN29URoyQ",
+    "name": "AAA - Las Vegas",
+    "address": "10860 W Charleston Blvd, Ste 130",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89135",
+    "stars": 4,
+    "categories": "Auto Repair, Hotels & Travel, Towing, Roadside Assistance, Automotive, Financial Services, Travel Services, Life Insurance, Auto Insurance, Insurance, Home & Rental Insurance, Local Services, Registration Services, Notaries"
+  },
+  {
+    "business_id": "AYJ_B6IuO2Ecm9qbfyIBvA",
+    "name": "Allstate Insurance: Debbie Gault",
+    "address": "1017 S Cimarron Rd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89145",
+    "stars": 5,
+    "categories": "Financial Services, Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance"
+  },
+  {
+    "business_id": "QzhecPbW_L90GtyScXCLyQ",
+    "name": "Allstate Insurance: Julie Jakubek",
+    "address": "4650 E Thomas Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85018",
+    "stars": 4.5,
+    "categories": "Home & Rental Insurance, Auto Insurance, Life Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "OQZWzJQhdBAeEtD67ZnVAQ",
+    "name": "Premier Choice Insurance",
+    "address": "4135 S Power Rd, Ste 131",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85212",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Insurance, Life Insurance"
+  },
+  {
+    "business_id": "T_7PLE9DBLkYkP5e1E1ehw",
+    "name": "Allstate Insurance: Bob Coudret",
+    "address": "20851 N 83rd Ave, Ste 3",
+    "city": "Peoria",
+    "state": "AZ",
+    "postal_code": "85382",
+    "stars": 4,
+    "categories": "Life Insurance, Home & Rental Insurance, Auto Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "zYXM8ezCH5O0FBRpOhP-bQ",
+    "name": "David Dorman - State Farm Insurance",
+    "address": "10630 N 59th Ave, Ste 102",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85304",
+    "stars": 5,
+    "categories": "Banks & Credit Unions, Financial Services, Auto Insurance, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "lQ11t972dtlBTN2LbxRDqQ",
+    "name": "Kenny Ong Financial Services",
+    "address": "9059 W Mcdowell Rd, Ste 100",
+    "city": "Tolleson",
+    "state": "AZ",
+    "postal_code": "85353",
+    "stars": 5,
+    "categories": "Tax Services, Financial Services, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "IlQ1E-4xiRuytW21iFPJDQ",
+    "name": "Allstate Insurance Agent: Ron Less",
+    "address": "6052 Royalton Rd",
+    "city": "North Royalton",
+    "state": "OH",
+    "postal_code": "44133",
+    "stars": 3,
+    "categories": "Financial Services, Insurance, Life Insurance, Auto Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "OqdFxFbpuQ4UfTGLpBSvng",
+    "name": "Symmetry Financial Group",
+    "address": "7050 W Mercer Ln",
+    "city": "Peoria",
+    "state": "AZ",
+    "postal_code": "85345",
+    "stars": 2,
+    "categories": "Life Insurance, Financial Services, Tax Services, Insurance"
+  },
+  {
+    "business_id": "7jh4YiREekBDfcSMIyKSGQ",
+    "name": "Blue Lion Insurance Brokers",
+    "address": "312 N Alma School Rd, Ste 15",
+    "city": "Chandler",
+    "state": "AZ",
+    "postal_code": "85224",
+    "stars": 5,
+    "categories": "Real Estate Services, Auto Insurance, Life Insurance, Financial Services, Home Services, Real Estate, Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "9r8GanN8S6ypKH3wTS1d5Q",
+    "name": "Knight Insurance Group",
+    "address": "12 W Vernon Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85003",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Financial Services, Insurance, Notaries, Life Insurance, Auto Insurance, Local Services"
+  },
+  {
+    "business_id": "HUovCOl65tY6G02QpI2lhg",
+    "name": "Allstate Insurance: Misty Everette",
+    "address": "8399 E Indian School Rd, Ste 103",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85251",
+    "stars": 4.5,
+    "categories": "Financial Services, Life Insurance, Home & Rental Insurance, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "w9ZJmje41Igdy8lt9jUSIg",
+    "name": "AssuredPartners Safeguard Insurance",
+    "address": "375 E Warm Springs Rd, Ste 201",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89119",
+    "stars": 5,
+    "categories": "Auto Insurance, Health Insurance Offices, Insurance, Home & Rental Insurance, Life Insurance, Financial Services, Health & Medical"
+  },
+  {
+    "business_id": "Klg7aKcXOGEdeLi2oI2cOg",
+    "name": "360 Insurance",
+    "address": "6628 Sky Pointe Dr, Ste 119",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89131",
+    "stars": 4.5,
+    "categories": "Life Insurance, Home & Rental Insurance, Auto Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "5LhDZcJfSbnVzRBk_3WEog",
+    "name": "Everett Insurance Group",
+    "address": "871 Coronado Center Dr, Ste 200",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 5,
+    "categories": "Financial Services, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance, Pet Services, Pets, Pet Insurance"
+  },
+  {
+    "business_id": "E8temrx-fE3q1iudrv5oZA",
+    "name": "Valley Insurance Group",
+    "address": "9455 W Russel Rd, Ste 130",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89148",
+    "stars": 4.5,
+    "categories": "Financial Services, Home & Rental Insurance, Auto Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "N0S7UvEKIhiVJ5BdYgWW1Q",
+    "name": "Allstate Insurance: Ajit Kundanani",
+    "address": "5615 Losee Rd, Ste 100",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "postal_code": "89081",
+    "stars": 3.5,
+    "categories": "Auto Insurance, Financial Services, Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "chqWEEDKnByAZ6g5kHibZw",
+    "name": "The Insurance Store",
+    "address": "1111 N Gilbert Rd, Ste 210A",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85234",
+    "stars": 3.5,
+    "categories": "Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "lxV8KqLvg1UfK9PNdo7IkQ",
+    "name": "Bob Vollmann - State Farm Insurance Agent",
+    "address": "",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85032",
+    "stars": 4,
+    "categories": "Auto Insurance, Life Insurance, Home & Rental Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "lDpbfIdMEfbU4FD2BW4A-g",
+    "name": "Monica Valencia - American Family Insurance",
+    "address": "11851 N 51st Ave, E140",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85304",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Home & Rental Insurance, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "g5xZqKIHAiaMZrnwZPouLg",
+    "name": "H.F. Hanes & Associates",
+    "address": "20343 N Hayden Rd, Ste 105",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85255",
+    "stars": 5,
+    "categories": "Health & Medical, Financial Advising, Financial Services, Health Insurance Offices, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "JN66aDwKZ1Gf91Yi98Lmng",
+    "name": "Hassett Insurance",
+    "address": "5229 N 7th Ave, Ste 105",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85013",
+    "stars": 4.5,
+    "categories": "Auto Insurance, Home & Rental Insurance, Financial Services, Life Insurance, Insurance"
+  },
+  {
+    "business_id": "FvdVXfMeCxxiIS1CTb-mLQ",
+    "name": "Orgill Singer Insurance",
+    "address": "8360 W Sahara Ave, Ste 110",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 2.5,
+    "categories": "Life Insurance, Home & Rental Insurance, Financial Services, Auto Insurance, Insurance"
+  },
+  {
+    "business_id": "gva_fx8xN_kHeDUagn_Xiw",
+    "name": "Farmers Insurance - Natalie DeNardo",
+    "address": "6670 S Tenaya Way, Ste 105",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89113",
+    "stars": 4.5,
+    "categories": "Financial Services, Home & Rental Insurance, Insurance, Life Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "zrLlt5GnGHeF_0ElvQ0_5Q",
+    "name": "Allen Financial Insurance Group",
+    "address": "13880 N Northsight Blvd, C Ste 109",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85260",
+    "stars": 3,
+    "categories": "Professional Services, Financial Services, Pets, Horse Boarding, Insurance, Auto Insurance, Life Insurance, Home & Rental Insurance"
+  },
+  {
+    "business_id": "7IfUx7d8RNXVIOskTrY-ow",
+    "name": "Bleecher Insurance Advisors",
+    "address": "3085 S Jones Blvd, Ste A",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 5,
+    "categories": "Financial Services, Home & Rental Insurance, Insurance, Auto Insurance, Life Insurance"
+  },
+  {
+    "business_id": "p4GYuSVy4Jjo-fq-3_543g",
+    "name": "iHealthBrokers",
+    "address": "2 N Central Ave, Fl 18",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85004",
+    "stars": 5,
+    "categories": "Health Insurance Offices, Life Insurance, Health & Medical, Financial Services, Insurance"
+  },
+  {
+    "business_id": "lRRAS3HTqVq7HLvDIeem5g",
+    "name": "Farmers Insurance - Gerardo Chirino",
+    "address": "3627 E Indian School Rd, Ste 207",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85018",
+    "stars": 5,
+    "categories": "Life Insurance, Auto Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "T_KGxMC9BKYv6qyATdTvgQ",
+    "name": "American Family Insurance - Paul Gebhard Agency",
+    "address": "4850 E Baseline Rd, Ste 103",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85206",
+    "stars": 3.5,
+    "categories": "Insurance, Home & Rental Insurance, Life Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "05BICd7379lUFCAZsL8Q4w",
+    "name": "Farmers Insurance - Jayson Hoffer",
+    "address": "1930 S Alma School Rd, Ste A101",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85210",
+    "stars": 4.5,
+    "categories": "Auto Insurance, Investing, Life Insurance, Financial Advising, Financial Services, Insurance"
+  },
+  {
+    "business_id": "8_8NG2M3-CrpjXtEv3H95g",
+    "name": "Wes Stahler - State Farm Insurance Agent",
+    "address": "1820 W Northern Ave, Ste 100",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85021",
+    "stars": 5,
+    "categories": "Banks & Credit Unions, Local Services, Financial Services, Insurance, Life Insurance, Home & Rental Insurance, Auto Insurance"
+  },
+  {
+    "business_id": "n6sG_NVGr_I1wObT73W4Lg",
+    "name": "Insurance Brokers of Arizona",
+    "address": "690 E Warner Rd, Ste 108",
+    "city": "Gilbert",
+    "state": "AZ",
+    "postal_code": "85296",
+    "stars": 5,
+    "categories": "Home & Rental Insurance, Insurance, Financial Services, Auto Insurance, Pets, Pet Services, Pet Insurance, Life Insurance"
+  },
+  {
+    "business_id": "qqrZzrMr9FTkUqDfm0DZiw",
+    "name": "The Garzella Group",
+    "address": "7600 E Redfield Rd, Ste B-145",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "postal_code": "85260",
+    "stars": 5,
+    "categories": "Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "3nWI2A-ccjuW5hYmmBiL_Q",
+    "name": "Brian Johnson Agency",
+    "address": "3660 E University Dr, Ste 3, American Family Insurance",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85205",
+    "stars": 5,
+    "categories": "Life Insurance, Home & Rental Insurance, Insurance, Financial Services, Auto Insurance"
+  },
+  {
+    "business_id": "aQOYZARifMo_tfQipVsRrA",
+    "name": "Tony Repinski - Farmers Insurance",
+    "address": "7885 W Sahara Ave, Ste 102",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89117",
+    "stars": 3.5,
+    "categories": "Life Insurance, Insurance, Home & Rental Insurance, Auto Insurance, Financial Services"
+  },
+  {
+    "business_id": "NkjkIP8Q5sdOgL-_Tu-2XA",
+    "name": "Allstate Insurance Agent: Mehrooz Misaghian",
+    "address": "5435 W Sahara Ave, Ste E",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 3.5,
+    "categories": "Life Insurance, Auto Insurance, Insurance, Home & Rental Insurance, Financial Services"
+  },
+  {
+    "business_id": "2h2Gmir4rbY9xoLRq6zBEg",
+    "name": "Tony Hefner - State Farm Insurance Agent",
+    "address": "10226 Couloak Dr, Ste 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "postal_code": "28216",
+    "stars": 3.5,
+    "categories": "Financial Services, Auto Insurance, Life Insurance, Home & Rental Insurance, Insurance"
+  },
+  {
+    "business_id": "CkYmB8OoPvlu3mmYRmHI2w",
+    "name": "Epic Insurance Center",
+    "address": "120 W Aurora Rd",
+    "city": "Northfield",
+    "state": "OH",
+    "postal_code": "44067",
+    "stars": 2.5,
+    "categories": "Auto Insurance, Insurance, Home & Rental Insurance, Life Insurance, Financial Services"
+  },
+  {
+    "business_id": "I1MnZyi1dvNkysktcxiQ0g",
+    "name": "Touchdown Insurance",
+    "address": "10429 S 51st St, Ste 220",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85044",
+    "stars": 4.5,
+    "categories": "Home & Rental Insurance, Life Insurance, Auto Insurance, Insurance, Financial Services"
+  },
+  {
+    "business_id": "3EicGRKPDsQPS0Dk-XzAAQ",
+    "name": "Allstate Insurance: Renee Brooks",
+    "address": "330 N Highway 16",
+    "city": "Denver",
+    "state": "NC",
+    "postal_code": "28037",
+    "stars": 2.5,
+    "categories": "Auto Insurance, Life Insurance, Home & Rental Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "g7GOhK55M9QpQ1GtqyNRpw",
+    "name": "Insuremart",
+    "address": "2655 S Rainbow Blvd, Ste 310",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89146",
+    "stars": 4.5,
+    "categories": "Home & Rental Insurance, Insurance, Auto Insurance, Financial Services, Life Insurance, Automotive"
+  },
+  {
+    "business_id": "-eEJkNuGlDRUlDSqpJVgtw",
+    "name": "Liberty Mutual Insurance",
+    "address": "9205 W Russell Rd, Ste 370",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": "89148",
+    "stars": 3.5,
+    "categories": "Life Insurance, Home & Rental Insurance, Auto Insurance, Financial Services, Insurance"
+  },
+  {
+    "business_id": "zME8Cujcpg-IYdB2ONSM6Q",
+    "name": "Jon Spalding Insurance",
+    "address": "10120 S Eastern Ave, Ste 200",
+    "city": "Henderson",
+    "state": "NV",
+    "postal_code": "89052",
+    "stars": 5,
+    "categories": "Insurance, Auto Insurance, Financial Services, Life Insurance, Home & Rental Insurance"
+  }
+]
