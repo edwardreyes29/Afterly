@@ -7,11 +7,6 @@
     "state": "NV",
     "postal_code": "89128",
     "stars": 4.5,
-    "review_count": 15,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Home Health Care, Health & Medical, Hospice"
   },
   {
@@ -22,12 +17,6 @@
     "state": "NV",
     "postal_code": "89149",
     "stars": 5,
-    "review_count": 6,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Medical Centers, Health & Medical, Memory Care, Home Health Care, Assisted Living Facilities, Hospice, Rehabilitation Center, Skilled Nursing"
   },
   {
@@ -38,12 +27,6 @@
     "state": "NV",
     "postal_code": "89117",
     "stars": 1.5,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Health & Medical, Assisted Living Facilities, Home Health Care, Retirement Homes"
   },
   {
@@ -54,9 +37,6 @@
     "state": "AZ",
     "postal_code": "85003",
     "stars": 1,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Health & Medical, Retirement Homes, Hospice, Home Health Care, Assisted Living Facilities, Memory Care"
   },
   {
@@ -67,12 +47,6 @@
     "state": "AZ",
     "postal_code": "85260",
     "stars": 2.5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Health & Medical, Home Health Care, Personal Care Services"
   },
   {
@@ -83,9 +57,6 @@
     "state": "OH",
     "postal_code": "44060",
     "stars": 1,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -96,9 +67,6 @@
     "state": "NV",
     "postal_code": "89118",
     "stars": 3.5,
-    "review_count": 45,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Veterinarians, Pet Sitting, Pet Groomers, Pet Hospice, Pets, Pet Services"
   },
   {
@@ -109,11 +77,6 @@
     "state": "AZ",
     "postal_code": "85016",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Home Health Care, Health & Medical, Hospice"
   },
   {
@@ -124,13 +87,6 @@
     "state": "OH",
     "postal_code": "44122",
     "stars": 2,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Home Health Care, Health & Medical, Rehabilitation Center, Physical Therapy, Hospice, Retirement Homes"
   },
   {
@@ -141,11 +97,6 @@
     "state": "AZ",
     "postal_code": "85020",
     "stars": 3,
-    "review_count": 3,
-    "is_open": 0,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Assisted Living Facilities, Hospice, Retirement Homes, Physical Therapy, Medical Centers, Health & Medical, Speech Therapists, Rehabilitation Center, Home Health Care"
   },
   {
@@ -156,12 +107,6 @@
     "state": "AZ",
     "postal_code": "85016",
     "stars": 2.5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Health & Medical, Home Health Care, Hospice"
   },
   {
@@ -172,17 +117,6 @@
     "state": "NV",
     "postal_code": "89129",
     "stars": 5,
-    "review_count": 9,
-    "is_open": 1,
-    "attributes": {
-      "BikeParking": "True",
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True",
-      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
-      "RestaurantsPriceRange2": "1",
-      "WiFi": "u'free'",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Hospice, Home Health Care, Health & Medical, Shopping, Pharmacy, Drugstores"
   },
   {
@@ -193,12 +127,6 @@
     "state": "NV",
     "postal_code": "89146",
     "stars": 4.5,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -209,11 +137,6 @@
     "state": "OH",
     "postal_code": "44124",
     "stars": 4.5,
-    "review_count": 3,
-    "is_open": 0,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Physical Therapy, Hospice, Rehabilitation Center, Health & Medical, Skilled Nursing, Assisted Living Facilities"
   },
   {
@@ -224,18 +147,6 @@
     "state": "NV",
     "postal_code": "89135",
     "stars": 2.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "GoodForKids": "True",
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "False",
-      "WheelchairAccessible": "True",
-      "BusinessParking": "{'garage': True, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
-      "BikeParking": "True",
-      "DogsAllowed": "True"
-    },
     "categories": "Amateur Sports Teams, Soccer, Retirement Homes, Fitness & Instruction, Hospice, Trainers, Health & Medical, Sports Clubs, Active Life, Assisted Living Facilities"
   },
   {
@@ -246,15 +157,6 @@
     "state": "AZ",
     "postal_code": "85305",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "False",
-      "WiFi": "u'free'",
-      "BusinessAcceptsCreditCards": "False",
-      "WheelchairAccessible": "True"
-    },
     "categories": "Hospice, Elder Care Planning, Health & Medical, Local Services, Retirement Homes, Assisted Living Facilities, Home Health Care, Community Service/Non-Profit"
   },
   {
@@ -265,9 +167,6 @@
     "state": "AZ",
     "postal_code": "85297",
     "stars": 4.5,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -278,9 +177,6 @@
     "state": "AZ",
     "postal_code": "85351",
     "stars": 3,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Home Health Care, Health & Medical, Hospice"
   },
   {
@@ -291,11 +187,6 @@
     "state": "AZ",
     "postal_code": "85258",
     "stars": 4,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -306,13 +197,6 @@
     "state": "AZ",
     "postal_code": "85258",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "False",
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -323,11 +207,6 @@
     "state": "AZ",
     "postal_code": "85027",
     "stars": 5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -338,12 +217,6 @@
     "state": "AZ",
     "postal_code": "85016",
     "stars": 3.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -354,14 +227,6 @@
     "state": "NV",
     "postal_code": "89103",
     "stars": 4,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "WiFi": "u'free'",
-      "BusinessAcceptsCreditCards": "False",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Hospice, Home Health Care, Health & Medical"
   },
   {
@@ -372,13 +237,6 @@
     "state": "AZ",
     "postal_code": "85282",
     "stars": 3.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Health & Medical, Home Health Care, Hospice"
   },
   {
@@ -389,9 +247,6 @@
     "state": "AZ",
     "postal_code": "85282",
     "stars": 3.5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -402,12 +257,6 @@
     "state": "NV",
     "postal_code": "89117",
     "stars": 4,
-    "review_count": 10,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -418,13 +267,6 @@
     "state": "AZ",
     "postal_code": "85260",
     "stars": 5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "False",
-      "WiFi": "u'no'"
-    },
     "categories": "Home Health Care, Hospice, Health & Medical, Personal Care Services, Assisted Living Facilities"
   },
   {
@@ -435,9 +277,6 @@
     "state": "AZ",
     "postal_code": "85249",
     "stars": 3.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Retirement Homes, Hospice, Health & Medical"
   },
   {
@@ -448,11 +287,6 @@
     "state": "OH",
     "postal_code": "44125",
     "stars": 3,
-    "review_count": 6,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -463,12 +297,6 @@
     "state": "NV",
     "postal_code": "89118",
     "stars": 4,
-    "review_count": 20,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Health & Medical, Hospice, Local Services, Community Service/Non-Profit"
   },
   {
@@ -479,15 +307,6 @@
     "state": "NV",
     "postal_code": "89119",
     "stars": 1.5,
-    "review_count": 7,
-    "is_open": 0,
-    "attributes": {
-      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True",
-      "RestaurantsPriceRange2": "2",
-      "BikeParking": "False"
-    },
     "categories": "Hospice, Shopping, Pharmacy, Drugstores, Health & Medical"
   },
   {
@@ -498,17 +317,6 @@
     "state": "AZ",
     "postal_code": "85022",
     "stars": 5,
-    "review_count": 12,
-    "is_open": 1,
-    "attributes": {
-      "RestaurantsPriceRange2": "2",
-      "BikeParking": "True",
-      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
-      "WheelchairAccessible": "True",
-      "BusinessAcceptsBitcoin": "False",
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Shopping, Medical Supplies, Health & Medical, Home Health Care, Hospice, Active Life, Scooter Rentals"
   },
   {
@@ -519,9 +327,6 @@
     "state": "NV",
     "postal_code": "89145",
     "stars": 3.5,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pets, Pet Adoption, Pet Training, Pet Hospice, Pet Services"
   },
   {
@@ -532,13 +337,6 @@
     "state": "NV",
     "postal_code": "89147",
     "stars": 4,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "True",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Health & Medical, Memory Care, Hospice, Retirement Homes, Assisted Living Facilities"
   },
   {
@@ -549,9 +347,6 @@
     "state": "WI",
     "postal_code": "53711",
     "stars": 4.5,
-    "review_count": 12,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pet Services, Acupuncture, Veterinarians, Pets, Health & Medical, Pet Hospice, Doctors, Naturopathic/Holistic"
   },
   {
@@ -562,13 +357,6 @@
     "state": "AZ",
     "postal_code": "85050",
     "stars": 5,
-    "review_count": 14,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Hospice, Health & Medical, Surgeons, Home Health Care, Doctors, Podiatrists"
   },
   {
@@ -579,9 +367,6 @@
     "state": "AZ",
     "postal_code": "85024",
     "stars": 5,
-    "review_count": 15,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pet Services, Pets, Veterinarians, Pet Hospice"
   },
   {
@@ -592,9 +377,6 @@
     "state": "OH",
     "postal_code": "44195",
     "stars": 2.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -605,12 +387,6 @@
     "state": "NC",
     "postal_code": "28203",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Health & Medical, Home Health Care, Child Care & Day Care, Local Services, Hospice"
   },
   {
@@ -621,14 +397,6 @@
     "state": "AZ",
     "postal_code": "85301",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "AcceptsInsurance": "False",
-      "WiFi": "u'no'",
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Health & Medical, Medical Transportation, Assisted Living Facilities, Hospice"
   },
   {
@@ -639,14 +407,6 @@
     "state": "AZ",
     "postal_code": "85014",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "WiFi": "u'free'",
-      "BusinessAcceptsCreditCards": "False",
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -657,12 +417,6 @@
     "state": "AZ",
     "postal_code": "85260",
     "stars": 5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Health & Medical, Hospice, Home Health Care"
   },
   {
@@ -673,13 +427,6 @@
     "state": "NV",
     "postal_code": "89113",
     "stars": 4,
-    "review_count": 8,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Health & Medical, Assisted Living Facilities, Hospice, Memory Care, Retirement Homes"
   },
   {
@@ -690,9 +437,6 @@
     "state": "OH",
     "postal_code": "44119",
     "stars": 3,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Health & Medical, Community Service/Non-Profit, Local Services, Hospice"
   },
   {
@@ -703,9 +447,6 @@
     "state": "AZ",
     "postal_code": "85203",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -716,11 +457,6 @@
     "state": "AZ",
     "postal_code": "85054",
     "stars": 4.5,
-    "review_count": 6,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Hospice, Home Health Care, Health & Medical"
   },
   {
@@ -731,14 +467,6 @@
     "state": "AZ",
     "postal_code": "85224",
     "stars": 4.5,
-    "review_count": 8,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True",
-      "WiFi": "u'no'",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -749,11 +477,6 @@
     "state": "NC",
     "postal_code": "28227",
     "stars": 1,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Retirement Homes, Assisted Living Facilities, Home Health Care, Health & Medical, Personal Care Services, Hospice"
   },
   {
@@ -764,9 +487,6 @@
     "state": "NV",
     "postal_code": "89121",
     "stars": 2,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Health & Medical, Event Planning & Services, Hospice"
   },
   {
@@ -777,11 +497,6 @@
     "state": "NV",
     "postal_code": "89118",
     "stars": 3.5,
-    "review_count": 9,
-    "is_open": 0,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -792,11 +507,6 @@
     "state": "AZ",
     "postal_code": "85224",
     "stars": 4.5,
-    "review_count": 10,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Health & Medical, Hospice"
   },
   {
@@ -807,11 +517,6 @@
     "state": "NV",
     "postal_code": "89123",
     "stars": 2.5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Health & Medical, Memory Care, Hospice"
   },
   {
@@ -822,9 +527,6 @@
     "state": "WI",
     "postal_code": "53705",
     "stars": 5,
-    "review_count": 18,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pets, Pet Services, Veterinarians, Pet Hospice"
   },
   {
@@ -835,9 +537,6 @@
     "state": "OH",
     "postal_code": "44120",
     "stars": 1.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Home Health Care, Hospice, Health & Medical, Hospitals, Occupational Therapy, Physical Therapy"
   },
   {
@@ -848,11 +547,6 @@
     "state": "AZ",
     "postal_code": "85374",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Hospice, Retirement Homes, Home Health Care, Health & Medical"
   },
   {
@@ -863,9 +557,6 @@
     "state": "PA",
     "postal_code": "15146",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -876,9 +567,6 @@
     "state": "AZ",
     "postal_code": "85018",
     "stars": 4.5,
-    "review_count": 6,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Rehabilitation Center, Hospice, Assisted Living Facilities, Health & Medical"
   },
   {
@@ -889,12 +577,6 @@
     "state": "NV",
     "postal_code": "89074",
     "stars": 3.5,
-    "review_count": 17,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Assisted Living Facilities, Active Life, Memory Care, Health & Medical, Hospice, Senior Centers, Hospitals, Retirement Homes"
   },
   {
@@ -905,11 +587,6 @@
     "state": "AZ",
     "postal_code": "85251",
     "stars": 3,
-    "review_count": 8,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Rehabilitation Center, Home Health Care, Retirement Homes, Health & Medical, Hospice"
   },
   {
@@ -920,13 +597,6 @@
     "state": "NV",
     "postal_code": "89117",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "False",
-      "ByAppointmentOnly": "True",
-      "WiFi": "u'free'"
-    },
     "categories": "Home Health Care, Health & Medical, Home Services, Assisted Living Facilities, Active Life, Retirement Homes, Hospice"
   },
   {
@@ -937,9 +607,6 @@
     "state": "OH",
     "postal_code": "44070",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Assisted Living Facilities, Hospice, Health & Medical, Skilled Nursing"
   },
   {
@@ -950,13 +617,6 @@
     "state": "AZ",
     "postal_code": "85308",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Personal Care Services, Home Health Care, Health & Medical"
   },
   {
@@ -967,11 +627,6 @@
     "state": "AZ",
     "postal_code": "85253",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Veterinarians, Pet Services, Pet Hospice, Pet Cremation Services, Pets"
   },
   {
@@ -982,9 +637,6 @@
     "state": "AZ",
     "postal_code": "85379",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical, Home Health Care"
   },
   {
@@ -995,9 +647,6 @@
     "state": "NC",
     "postal_code": "28277",
     "stars": 5,
-    "review_count": 18,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Veterinarians, Pets, Pet Hospice, Pet Services, Pet Groomers"
   },
   {
@@ -1008,13 +657,6 @@
     "state": "AZ",
     "postal_code": "85051",
     "stars": 2.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "WiFi": "u'free'",
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -1025,11 +667,6 @@
     "state": "AZ",
     "postal_code": "85016",
     "stars": 2,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Retirement Homes, Hospice, Health & Medical"
   },
   {
@@ -1040,9 +677,6 @@
     "state": "PA",
     "postal_code": "15239",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pets, Veterinarians, Pet Services, Pet Hospice"
   },
   {
@@ -1053,11 +687,6 @@
     "state": "NV",
     "postal_code": "89118",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -1068,11 +697,6 @@
     "state": "AZ",
     "postal_code": "85282",
     "stars": 2.5,
-    "review_count": 3,
-    "is_open": 0,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Health & Medical, Home Health Care, Hospice"
   },
   {
@@ -1083,13 +707,6 @@
     "state": "NV",
     "postal_code": "89117",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Retirement Homes, Skilled Nursing, Counseling & Mental Health, Home Health Care, Hospice, Health & Medical"
   },
   {
@@ -1100,14 +717,6 @@
     "state": "AZ",
     "postal_code": "85304",
     "stars": 2.5,
-    "review_count": 13,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "WiFi": "u'free'",
-      "BusinessAcceptsCreditCards": "False",
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Hospice, IV Hydration, Rehabilitation Center, Health & Medical"
   },
   {
@@ -1118,12 +727,6 @@
     "state": "AZ",
     "postal_code": "85382",
     "stars": 1,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Memory Care, Hospice, Assisted Living Facilities, Retirement Homes, Health & Medical"
   },
   {
@@ -1134,9 +737,6 @@
     "state": "NC",
     "postal_code": "28270",
     "stars": 4,
-    "review_count": 14,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pet Services, Pet Boarding, Pet Sitting, Pet Hospice, Veterinarians, Pets"
   },
   {
@@ -1147,11 +747,6 @@
     "state": "AZ",
     "postal_code": "85032",
     "stars": 5,
-    "review_count": 109,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Veterinarians, Pet Hospice, Pet Services, Pets"
   },
   {
@@ -1162,9 +757,6 @@
     "state": "AZ",
     "postal_code": "85035",
     "stars": 5,
-    "review_count": 13,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pets, Veterinarians, Pet Cremation Services, Pet Services, Pet Hospice"
   },
   {
@@ -1175,14 +767,6 @@
     "state": "AZ",
     "postal_code": "85208",
     "stars": 2.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "WiFi": "u'free'",
-      "AcceptsInsurance": "False",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Apartments, Rehabilitation Center, Home Services, Health & Medical, Real Estate, Retirement Homes, Memory Care, Hospice, Assisted Living Facilities"
   },
   {
@@ -1193,14 +777,6 @@
     "state": "NC",
     "postal_code": "28105",
     "stars": 4,
-    "review_count": 9,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True",
-      "WiFi": "u'free'"
-    },
     "categories": "Health & Medical, Rehabilitation Center, Assisted Living Facilities, Skilled Nursing, Hospice"
   },
   {
@@ -1211,12 +787,6 @@
     "state": "AZ",
     "postal_code": "85304",
     "stars": 2.5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "False",
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Hospitals, Health & Medical, Hospice"
   },
   {
@@ -1227,12 +797,6 @@
     "state": "AZ",
     "postal_code": "85374",
     "stars": 3.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Assisted Living Facilities, Hospice, Retirement Homes, Health & Medical, Movers, Home Services"
   },
   {
@@ -1243,9 +807,6 @@
     "state": "NV",
     "postal_code": "89121",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 0,
-    "attributes": null,
     "categories": "Urgent Care, Hospice, Hospitals, Health & Medical"
   },
   {
@@ -1256,9 +817,6 @@
     "state": "NV",
     "postal_code": "89130",
     "stars": 3,
-    "review_count": 8,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Retirement Homes, Hospice, Health & Medical, Rehabilitation Center, Hospitals, Assisted Living Facilities"
   },
   {
@@ -1269,11 +827,6 @@
     "state": "AZ",
     "postal_code": "85302",
     "stars": 2,
-    "review_count": 9,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True"
-    },
     "categories": "Health & Medical, Hospice, Physical Therapy, Retirement Homes"
   },
   {
@@ -1284,13 +837,6 @@
     "state": "AZ",
     "postal_code": "85029",
     "stars": 3.5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Health & Medical, Hospice, Medical Centers, Doctors, Home Health Care, Nutritionists"
   },
   {
@@ -1301,14 +847,6 @@
     "state": "NV",
     "postal_code": "89128",
     "stars": 4.5,
-    "review_count": 22,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "BusinessAcceptsCreditCards": "True",
-      "AcceptsInsurance": "True",
-      "WiFi": "u'free'"
-    },
     "categories": "Hospice, Home Health Care, Health & Medical"
   },
   {
@@ -1319,12 +857,6 @@
     "state": "NV",
     "postal_code": "89108",
     "stars": 2,
-    "review_count": 13,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "AcceptsInsurance": "True"
-    },
     "categories": "Chiropractors, Health & Medical, Skilled Nursing, Medical Centers, Rehabilitation Center, Hospice"
   },
   {
@@ -1335,14 +867,6 @@
     "state": "NV",
     "postal_code": "89144",
     "stars": 5,
-    "review_count": 5,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "BusinessAcceptsCreditCards": "True",
-      "AcceptsInsurance": "False",
-      "WiFi": "u'no'"
-    },
     "categories": "Health & Medical, Local Services, Hospice, Counseling & Mental Health, Funeral Services & Cemeteries"
   },
   {
@@ -1353,13 +877,6 @@
     "state": "NV",
     "postal_code": "89121",
     "stars": 3.5,
-    "review_count": 8,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -1370,14 +887,6 @@
     "state": "NV",
     "postal_code": "89119",
     "stars": 4,
-    "review_count": 35,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True",
-      "WiFi": "u'free'",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Retirement Homes, Hospice, Assisted Living Facilities, Home Health Care, Health & Medical"
   },
   {
@@ -1388,12 +897,6 @@
     "state": "NV",
     "postal_code": "89108",
     "stars": 1,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "False"
-    },
     "categories": "Health & Medical, Retirement Homes, Hospice"
   },
   {
@@ -1404,11 +907,6 @@
     "state": "AZ",
     "postal_code": "85215",
     "stars": 5,
-    "review_count": 18,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Pet Hospice, Pet Services, Veterinarians, Pets"
   },
   {
@@ -1419,9 +917,6 @@
     "state": "AZ",
     "postal_code": "85021",
     "stars": 3,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Community Service/Non-Profit, Health & Medical, Local Services"
   },
   {
@@ -1432,9 +927,6 @@
     "state": "AZ",
     "postal_code": "85021",
     "stars": 1,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Health & Medical, Personal Care Services, Home Health Care, Retirement Homes"
   },
   {
@@ -1445,12 +937,6 @@
     "state": "AZ",
     "postal_code": "85340",
     "stars": 4,
-    "review_count": 12,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Assisted Living Facilities, Health & Medical, Hospice, Home Health Care, Retirement Homes"
   },
   {
@@ -1461,12 +947,6 @@
     "state": "NV",
     "postal_code": "89074",
     "stars": 3,
-    "review_count": 11,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Education, Retirement Homes, Language Schools, Physical Therapy, Specialty Schools, Health & Medical, Hospice, Skilled Nursing, Assisted Living Facilities"
   },
   {
@@ -1477,11 +957,6 @@
     "state": "AZ",
     "postal_code": "85259",
     "stars": 5,
-    "review_count": 17,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False"
-    },
     "categories": "Veterinarians, Pets, Pet Cremation Services, Pet Hospice, Pet Services"
   },
   {
@@ -1492,11 +967,6 @@
     "state": "AZ",
     "postal_code": "85284",
     "stars": 4.5,
-    "review_count": 74,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Pet Services, Pet Hospice, Pets, Veterinarians"
   },
   {
@@ -1507,12 +977,6 @@
     "state": "AZ",
     "postal_code": "85012",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Hospice, Health & Medical, Home Health Care, Skilled Nursing"
   },
   {
@@ -1523,12 +987,6 @@
     "state": "AZ",
     "postal_code": "85250",
     "stars": 4,
-    "review_count": 20,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Health & Medical, Home Health Care, Hospice"
   },
   {
@@ -1539,14 +997,6 @@
     "state": "AZ",
     "postal_code": "85032",
     "stars": 3.5,
-    "review_count": 8,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "True",
-      "WiFi": "u'free'"
-    },
     "categories": "Health & Medical, Elder Care Planning, Medical Centers, Skilled Nursing, Physical Therapy, Hospice, Rehabilitation Center, Local Services, Occupational Therapy"
   },
   {
@@ -1557,11 +1007,6 @@
     "state": "AZ",
     "postal_code": "85224",
     "stars": 3.5,
-    "review_count": 26,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Skilled Nursing, Rehabilitation Center, Home Health Care, Hospice, Health & Medical, Physical Therapy"
   },
   {
@@ -1572,13 +1017,6 @@
     "state": "NV",
     "postal_code": "89178",
     "stars": 4.5,
-    "review_count": 11,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "BusinessAcceptsBitcoin": "False",
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Dog Walkers, Pet Hospice, Pet Training, House Sitters, Pet Sitting, Pet Boarding, Home Services, Pet Services, Pets"
   },
   {
@@ -1589,9 +1027,6 @@
     "state": "AZ",
     "postal_code": "85020",
     "stars": 4.5,
-    "review_count": 39,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pets, Pet Stores, Veterinarians, Pet Services, Pet Hospice"
   },
   {
@@ -1602,12 +1037,6 @@
     "state": "NV",
     "postal_code": "89121",
     "stars": 4,
-    "review_count": 5,
-    "is_open": 0,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Memory Care, Hospice, Assisted Living Facilities, Home Health Care, Health & Medical, Retirement Homes"
   },
   {
@@ -1618,11 +1047,6 @@
     "state": "AZ",
     "postal_code": "85257",
     "stars": 5,
-    "review_count": 9,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "False"
-    },
     "categories": "Hospice, Memory Care, Health & Medical, Assisted Living Facilities, Home Health Care, Retirement Homes"
   },
   {
@@ -1633,13 +1057,6 @@
     "state": "AZ",
     "postal_code": "85016",
     "stars": 5,
-    "review_count": 4,
-    "is_open": 1,
-    "attributes": {
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "True",
-      "ByAppointmentOnly": "True"
-    },
     "categories": "Hospice, Home Health Care, Health & Medical"
   },
   {
@@ -1650,13 +1067,6 @@
     "state": "AZ",
     "postal_code": "85085",
     "stars": 4.5,
-    "review_count": 10,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "False",
-      "AcceptsInsurance": "False",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Health & Medical, Hospice, Veterinarians, Pet Services, Pet Hospice, Pets"
   },
   {
@@ -1667,13 +1077,6 @@
     "state": "NV",
     "postal_code": "89118",
     "stars": 5,
-    "review_count": 7,
-    "is_open": 1,
-    "attributes": {
-      "ByAppointmentOnly": "True",
-      "AcceptsInsurance": "True",
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Hospice, Health & Medical"
   },
   {
@@ -1684,9 +1087,6 @@
     "state": "AZ",
     "postal_code": "85308",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Hospice, Home Health Care, Professional Services, Personal Assistants, Health & Medical, Elder Care Planning, Personal Care Services, Local Services"
   },
   {
@@ -1697,11 +1097,6 @@
     "state": "AZ",
     "postal_code": "85281",
     "stars": 2.5,
-    "review_count": 12,
-    "is_open": 1,
-    "attributes": {
-      "BusinessAcceptsCreditCards": "True"
-    },
     "categories": "Health & Medical, Medical Transportation, Hospice"
   },
   {
@@ -1712,9 +1107,6 @@
     "state": "AZ",
     "postal_code": "85213",
     "stars": 5,
-    "review_count": 3,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Retirement Homes, Health & Medical, Hospice"
   },
   {
@@ -1725,9 +1117,6 @@
     "state": "NV",
     "postal_code": "89130",
     "stars": 5,
-    "review_count": 53,
-    "is_open": 1,
-    "attributes": null,
     "categories": "Pet Hospice, Veterinarians, Pet Services, Pets"
   }
 ]
