@@ -40,7 +40,7 @@ module.exports = function(app) {
     app.delete("/api/cases/:id", function(req, res) {
         db.Case.destroy({
             where: { id: req.params.id }
-        }).then(function(dbUser) {
+        }).then(function(dbCase) {
             res.json(dbCase);
         });
     });
@@ -55,7 +55,7 @@ module.exports = function(app) {
             where: {
                 id: req.body.id
             }
-        }).then(function(dbUser) {
+        }).then(function(dbCase) {
             res.json(dbCase);
         });
     });
