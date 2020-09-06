@@ -31,5 +31,15 @@ module.exports = function(sequelize, DataTypes) {
       null
     );
   });
+
+  // Associations
+  User.associate = function(models) {
+    // Associating User with Cases
+    // When User is deleted, also delete any associated Cases
+    User.hasMany(models.Case, {
+      onDelete: "cascade"
+    })
+  }
+
   return User;
 };

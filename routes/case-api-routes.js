@@ -10,8 +10,8 @@ module.exports = function(app) {
     
     // GET route for getting all users
     app.get("/api/cases", function(req, res) {
-        db.Case.findAll({}).then(function(dbUsers) {
-            res.json(dbUsers);
+        db.Case.findAll({}).then(function(dbCases) {
+            res.json(dbCases);
         });
     });
 
@@ -19,8 +19,8 @@ module.exports = function(app) {
     app.get("/api/cases/:id", function(req, res) {
         db.Case.findOne({ 
             where: { id: req.params.id } 
-        }).then(function(dbUser) {
-            res.json(dbUser);
+        }).then(function(dbCase) {
+            res.json(dbCase);
         });
     });
 
@@ -29,9 +29,10 @@ module.exports = function(app) {
         db.Case.create({
             name: req.body.name,
             birthday: new Date(req.body.birthday),
-            zipCode: req.body.zipCode
-        }).then(function(dbUser) {
-            res.json(dbUser);
+            zipCode: req.body.zipCode,
+            UserId: req.body.UserId
+        }).then(function(dbCase) {
+            res.json(dbCase);
         });
     });
 
@@ -40,7 +41,7 @@ module.exports = function(app) {
         db.Case.destroy({
             where: { id: req.params.id }
         }).then(function(dbUser) {
-            res.json(dbUser);
+            res.json(dbCase);
         });
     });
 
@@ -55,7 +56,7 @@ module.exports = function(app) {
                 id: req.body.id
             }
         }).then(function(dbUser) {
-            res.json(dbUser);
+            res.json(dbCase);
         });
     });
 }

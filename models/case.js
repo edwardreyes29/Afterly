@@ -1,5 +1,5 @@
 module.exports = function(sequelize, DataTypes) {
-    var Case = sequelize.define("Case", {
+    const Case = sequelize.define("Case", {
         name: {
             type: DataTypes.STRING,
             allowNull: false,
@@ -29,5 +29,17 @@ module.exports = function(sequelize, DataTypes) {
             allowNull: true,
         }
     });
+
+    // Associations
+    Case.associate = function(models) {
+        // Cases should belong to a User
+        // A Case can't be created without a User due to foreign key constraint
+        Case.belongsTo(models.User, {
+            foreignKey: {
+                allowNull: false
+            }
+        });
+    };
+
     return Case;
 };
