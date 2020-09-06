@@ -4,27 +4,38 @@
 // ******************************************************************************
 // *** Dependencies
 // =============================================================
-var express = require("express");
 require("dotenv").config(); // this is important!
-var exphbs = require("express-handlebars");
+const express = require("express");
+const exphbs = require("express-handlebars");
+const session = require("express-session");
+const passport = require("./config/passport");  // Requiring passport as we've configured it
+
 // Sets up the Express App
 // =============================================================
-var app = express();
-var PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8080;
+const db = require("./models"); // Requiring our models for syncing
 
-// Requiring our models for syncing
-var db = require("./models");
-
+// Creating express app and configuring middleware needed for authentication
+const app = express();
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-
 // Static directory
 app.use(express.static("public"));
 
+// Sessions to keep track of our user's login status
+app.use(
+  session({ secret: "keyboard cat", resave: true, saveUninitialized: true })
+);
+app.use(passport.initialize());
+app.use(passport.session());
+
 // Routes
 // =============================================================
+require("./routes/case-api-routes.js")(app);
+require("./routes/html-routes.js")(app);
 require("./routes/user-api-routes.js")(app);
+
 
 // Test
 // =============================================================
@@ -35,7 +46,11 @@ require("./api/nodeFusion.js");
 // =============================================================
 db.sequelize.sync().then(function () {
   // sync({ force: true })
-  app.listen(PORT, function () {
-    console.log("App listening on PORT " + PORT);
+  app.listen(PORT, () => {
+    console.log(
+      "==> 🌎  Listening on port %s. Visit http://localhost:%s/ in your browser.",
+      PORT,
+      PORT
+    );
   });
 });
