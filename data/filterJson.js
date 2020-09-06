@@ -1,3 +1,5 @@
+// Credit goes to Chad for showing us how to filer json data and use regular expressions
+
 const fs = require('fs');
 
 const alldata = require("../../yelp_dataset/yelp_academic_dataset_business.json");

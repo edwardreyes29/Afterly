@@ -28,7 +28,7 @@ require("./routes/user-api-routes.js")(app);
 // Test
 // =============================================================
 // TEST: /api/nodeFusion.js
-// require("./api/nodeFusion.js");
+require("./api/nodeFusion.js");
 
 // Syncing our sequelize models and then starting our Express app
 // =============================================================
