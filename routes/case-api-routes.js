@@ -9,15 +9,15 @@ var db = require("../models");
 module.exports = function(app) {
     
     // GET route for getting all users
-    app.get("/api/users", function(req, res) {
-        db.User.findAll({}).then(function(dbUsers) {
+    app.get("/api/cases", function(req, res) {
+        db.Case.findAll({}).then(function(dbUsers) {
             res.json(dbUsers);
         });
     });
 
     // GET route to get a specific user
-    app.get("/api/users/:id", function(req, res) {
-        db.User.findOne({ 
+    app.get("/api/cases/:id", function(req, res) {
+        db.Case.findOne({ 
             where: { id: req.params.id } 
         }).then(function(dbUser) {
             res.json(dbUser);
@@ -25,8 +25,8 @@ module.exports = function(app) {
     });
 
     // POST route for saving new user
-    app.post("/api/users", function(req, res) { // req.body.birthday = "January 1, 1970"
-        db.User.create({
+    app.post("/api/cases", function(req, res) { // req.body.birthday = "January 1, 1970"
+        db.Case.create({
             name: req.body.name,
             birthday: new Date(req.body.birthday),
             zipCode: req.body.zipCode
@@ -36,8 +36,8 @@ module.exports = function(app) {
     });
 
     // DELETE route for deleting a user
-    app.delete("/api/users/:id", function(req, res) {
-        db.User.destroy({
+    app.delete("/api/cases/:id", function(req, res) {
+        db.Case.destroy({
             where: { id: req.params.id }
         }).then(function(dbUser) {
             res.json(dbUser);
@@ -46,7 +46,7 @@ module.exports = function(app) {
 
     // PUT route for updating a user's general information
     app.put("/api/users", function(req, res) {
-        db.User.update({
+        db.Case.update({
             name: req.body.name,
             birthday: new Date(req.body.birthday),
             zipCode: req.body.zipCode

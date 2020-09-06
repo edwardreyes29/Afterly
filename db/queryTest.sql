@@ -1,6 +1,8 @@
 USE afterly_db;
 DESCRIBE law;
 
+SELECT * FROM Cases;
+
 SELECT * FROM law ORDER BY state;
 SELECT DISTINCT state FROM law ORDER BY state;
 SELECT COUNT(*) FROM law; -- Number of rows --
@@ -18,3 +20,9 @@ SELECT DISTINCT state FROM funeral ORDER BY state;
 SELECT COUNT(*) FROM funeral; -- Number of rows --
 SELECT COUNT(DISTINCT city) FROM funeral; -- Number of disctinct cities --
 SELECT COUNT(DISTINCT state) FROM funeral; -- Number of distinct states
+
+SELECT * FROM life_insurance ORDER BY state;
+SELECT DISTINCT state FROM life_insurance ORDER BY state;
+SELECT COUNT(*) FROM life_insurance; -- Number of rows --
+SELECT COUNT(DISTINCT city) FROM life_insurance; -- Number of disctinct cities --
+SELECT COUNT(DISTINCT state) FROM life_insurance; -- Number of distinct states

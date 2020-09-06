@@ -24,7 +24,7 @@ app.use(express.static("public"));
 
 // Routes
 // =============================================================
-require("./routes/user-api-routes.js")(app);
+require("./routes/case-api-routes.js")(app);
 
 // Test
 // =============================================================
