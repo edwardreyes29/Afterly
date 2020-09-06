@@ -1,23 +1,43 @@
-// 'use strict';
+'use strict';
 
-// const yelp = require('yelp-fusion');
-// const client = yelp.client(process.env.YELP_API_KEY);
+const yelp = require('yelp-fusion');
+const client = yelp.client(process.env.YELP_API_KEY);
 
-// // Business search
-// client.search({
-//     term: 'Estate Planning Law',
-//     location: 'Los Angeles, ca',
-// }).then(response => {
-//     console.log(response.jsonBody.businesses[0].name);
-//     console.log(response.jsonBody.businesses);
-// }).catch(e => {
-//     console.log(e);
-// });
+const terms = ['Estate Planning Law', 'Life Insurance', 'Funeral Services & Cemeteries', 'Hospice'];
 
-// // Business details 
-// client.business('gary-danko-san-francisco').then(response => {
-//     // console.log(response.jsonBody);
-//     console.log(response.jsonBody.name);
-// }).catch(e => {
-//     console.log(e);
-// });
+const businessSearch = (term, location) => {
+    return new Promise((resolve, reject) => {
+        // yelp-fusion - Business Search
+        client.search({
+            term: term,  
+            location: location,    
+        }).then(response => {
+            resolve(response.jsonBody.businesses);
+        }).catch(e => {
+            reject(e);  // console.log(e);
+        });
+    });
+}
+
+const businessDetails = alias => {
+    return new Promise((resolve, reject) => {
+        // yelp-fusion - Business Details
+        client.business(alias).then(response => {
+            resolve(response.jsonBody)
+        }).catch(e => {
+            reject(e);
+        });
+    });
+}
+
+const getBusinessSearchResult = async (term, location) => {
+    try {
+        let businessSearchData = await businessSearch(term, location);
+        // Get more detailed results
+        let businessDetailsData = await businessDetails(businessSearchData[0].alias)
+        console.log(businessDetailsData);
+    } catch (err) {
+        console.log(err);
+    }
+}
+getBusinessSearchResult(terms[0], 'Los Angeles, ca');
