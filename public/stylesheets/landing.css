@@ -23,7 +23,7 @@ img:hover {
   content: "";
   height: 100vh;
   width: 100%;
-  background-image: url("../lading.jpg");
+  background-image: url("../assets/lading.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
