@@ -36,6 +36,8 @@ require("./routes/case-api-routes.js")(app);
 require("./routes/html-routes.js")(app);
 require("./routes/user-api-routes.js")(app);
 require("./routes/life-insurance-api-routes")(app);
+require("./routes/funeral-api-routes")(app);
+require("./routes/hospice-api-routes")(app);
 
 // Test
 // =============================================================
