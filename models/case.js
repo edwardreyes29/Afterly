@@ -40,12 +40,14 @@ module.exports = function(sequelize, DataTypes) {
             }
         });
 
+        Case.hasMany(models.EstateLaw, {
+            onDelete: "cascade"
+        });
+
         Case.hasMany(models.LifeInsurance, {
             onDelete: "cascade"
         });
     };
-
-
 
     return Case;
 };

@@ -35,6 +35,7 @@ app.use(passport.session());
 require("./routes/case-api-routes.js")(app);
 require("./routes/html-routes.js")(app);
 require("./routes/user-api-routes.js")(app);
+require("./routes/estate-law-api-routes.js")(app);
 require("./routes/life-insurance-api-routes")(app);
 
 // Test
