@@ -41,4 +41,4 @@ const getBusinessSearchResult = async (term, location) => {
     }
 }
 
-getBusinessSearchResult(terms[1], 'Los Angeles, ca');
+// getBusinessSearchResult(terms[1], 'Los Angeles, ca');
