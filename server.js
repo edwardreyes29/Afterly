@@ -38,10 +38,13 @@ require("./routes/user-api-routes.js")(app);
 require("./routes/estate-law-api-routes.js")(app);
 require("./routes/life-insurance-api-routes")(app);
 
+// API requests
+require("./api/yelp-api-data.js")(app);
+
 // Test
 // =============================================================
 // TEST: /api/nodeFusion.js
-require("./api/nodeFusion.js");
+// require("./api/nodeFusion.js");
 
 // Syncing our sequelize models and then starting our Express app
 // =============================================================
