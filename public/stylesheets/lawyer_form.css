@@ -25,3 +25,7 @@
 .card-business h6{
     line-height: 0.4 !important;
 }
+
+.pagination{
+    width: 50%;
+}
