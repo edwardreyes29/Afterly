@@ -39,6 +39,10 @@ module.exports = function(sequelize, DataTypes) {
                 allowNull: false
             }
         });
+
+        Case.hasMany(models.EstateLaw, {
+            onDelete: "cascade"
+        });
     };
 
     return Case;
