@@ -16,14 +16,15 @@ $(document).ready(function () {
                 <div class="col-md-9">
                     <div class="card-business">
                         <h6 class="card-title-name">Business Name: ${data[i].name}</h6> 
-                        <h6 class="card-title-address">Business Address: _________</h6>
-                        <h6 class="card-title-hours">Hours: _________</h6>
-                        <h6 class="card-title-rating">Rating: _________</h6>
-                        <h6 class="card-title-address">Business Address: _________</h6>
+                        <h6 class="card-title-address">Business Address: ${data[i].location.address1}</h6>
+                        <h6 class="card-title-city">City, State Zip: ${data[i].location.display_address[1]}</h6>
+                        <h6 class="card-title-phone">Business Phone #: ${data[i].display_phone}</h6>
+                        <h6 class="card-title-rating">Rating: ${data[i].rating}</h6>
                     </div>
                 </div>
             </div>
-        </div>`);
+        </div>`
+        );
         }
     });
 });
