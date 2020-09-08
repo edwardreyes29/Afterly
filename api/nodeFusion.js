@@ -33,12 +33,13 @@ const businessDetails = alias => {
 const getBusinessSearchResult = async (term, location) => {
     try {
         let businessSearchData = await businessSearch(term, location);
+        return businessSearchData;
         // Get more detailed results
-        let businessDetailsData = await businessDetails(businessSearchData[0].alias)
-        console.log(businessDetailsData);
+        // let businessDetailsData = await businessDetails(businessSearchData[0].alias)
+        // console.log(businessDetailsData);
     } catch (err) {
         console.log(err);
     }
 }
 
-// getBusinessSearchResult(terms[1], 'Los Angeles, ca');
+console.log(getBusinessSearchResult(terms[1], 'Los Angeles, ca'));

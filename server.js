@@ -40,10 +40,13 @@ require("./routes/life-insurance-api-routes")(app);
 require("./routes/funeral-api-routes")(app);
 require("./routes/hospice-api-routes")(app);
 
+// API requests
+require("./api/yelp-api-data.js")(app);
+
 // Test
 // =============================================================
 // TEST: /api/nodeFusion.js
-require("./api/nodeFusion.js");
+// require("./api/nodeFusion.js");
 
 // Syncing our sequelize models and then starting our Express app
 // =============================================================
