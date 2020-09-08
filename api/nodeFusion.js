@@ -40,4 +40,4 @@ const getBusinessSearchResult = async (term, location) => {
         console.log(err);
     }
 }
-// getBusinessSearchResult(terms[0], 'Los Angeles, ca');
+getBusinessSearchResult(terms[1], 'Los Angeles, ca');
