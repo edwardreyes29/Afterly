@@ -47,6 +47,12 @@ module.exports = function(sequelize, DataTypes) {
         Case.hasMany(models.LifeInsurance, {
             onDelete: "cascade"
         });
+        Case.hasMany(models.Hospice, {
+            onDelete: "cascade"
+        });
+        Case.hasMany(models.Funeral, {
+            onDelete: "cascade"
+        });
     };
 
     return Case;

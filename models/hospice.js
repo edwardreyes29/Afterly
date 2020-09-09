@@ -1,6 +1,6 @@
 // Gets data from Business Details API request
-module.exports = function(sequelize, DataTypes) {
-    const EstateLaw = sequelize.define("EstateLaw", {
+module.exports = function(sequelize, DataTypes)  {
+    const Hospice = sequelize.define("Hospice", {
         business_id: {
             type: DataTypes.STRING,
             allowNull: false,
@@ -26,30 +26,30 @@ module.exports = function(sequelize, DataTypes) {
             allowNull: false,
         },
         location: { // Object -> STRING
-            type: DataTypes.STRING(1234),
+            type: DataTypes.STRING,
             allowNull: true,
         },
         photos: { // Array -> STRING
-            type: DataTypes.STRING(1234),
-            allowNull: true,
+            type: DataTypes.STRING,
+            allowNull: true
         },
         hours: { // Array -> STRING
-            type: DataTypes.STRING(1234),
+            type: DataTypes.STRING,
             allowNull: true,
         },
         messaging: { // Object -> STRING    
-            type:DataTypes.STRING(1234),
+            type:DataTypes.STRING,
             allowNull: true,
         }
     });
     // Associations
     // =============================================================
-    EstateLaw.associate = function(models) {
-        EstateLaw.belongsTo(models.Case, {
+    Hospice.associate = function(models) {
+        Hospice.belongsTo(models.Case, {
             foreignKey: {
                 allowNull: false
             }
         });
     };
-    return EstateLaw;
-};
+    return Hospice;
+}
