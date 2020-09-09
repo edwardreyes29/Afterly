@@ -30,4 +30,16 @@ module.exports = function (app) {
   app.get("/lawyer-form", function (req, res) {
     res.sendFile(path.join(__dirname, "../public/lawyer_form.html"))
   });
+
+  app.get("/hospice-form", function (req, res) {
+    res.sendFile(path.join(__dirname, "../public/hospice_form.html"))
+  });
+
+  app.get("/funeral-form", function (req, res) {
+    res.sendFile(path.join(__dirname, "../public/funeral_form.html"))
+  });
+
+  app.get("/insurance-form", function (req, res) {
+    res.sendFile(path.join(__dirname, "../public/insurance_form.html"))
+  });
 };

@@ -30,12 +30,12 @@ $(document).ready(function () {
     console.log(zip);
     $.ajax({
         type: 'get',
-        url: `/api/yelp/business/estates/${zip}`,
+        url: `/api/yelp/business/funerals/${zip}`,
     })
     .done(function(data){
         console.log(data);
         for (let i = 0; i < data.length; i++) {
-            $("#lawyer-results").append(
+            $("#funeral-results").append(
             `<div class="card mb-3" style="max-width: 600px;">
                 <div class="row no-gutters">
                     <div class="col-md-3">
@@ -92,6 +92,6 @@ $(document).ready(function () {
     }) 
 
     const createCase = caseData => {
-        $.post("/api/cases/estate-law", caseData);
+        $.post("/api/cases/Funeral", caseData);
     }
 });
