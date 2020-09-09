@@ -1,3 +1,23 @@
+// Scroll up button
+mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function () { scrollFunction() };
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+    } else {
+        mybutton.style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
 // require("dotenv").config(); // remove later...
 $(document).ready(function () {
 
@@ -15,11 +35,13 @@ $(document).ready(function () {
                 </div>
                 <div class="col-md-9">
                     <div class="card-business">
-                        <h6 class="card-title-name">Business Name: ${data[i].name}</h6> 
-                        <h6 class="card-title-address">Business Address: ${data[i].location.address1}</h6>
-                        <h6 class="card-title-city">City, State Zip: ${data[i].location.display_address[1]}</h6>
-                        <h6 class="card-title-phone">Business Phone #: ${data[i].display_phone}</h6>
-                        <h6 class="card-title-rating">Rating: ${data[i].rating}</h6>
+                        <h4 class="card-businessName">${data[i].name}</h4> 
+                        <hr>
+                        <h6 class="card-title card-address">ADDRESS: <text>${data[i].location.address1}</text></h6>
+                        <h6 class="card-title card-city">CITY, STATE & ZIP CODE: <text>${data[i].location.display_address[1]}</text></h6>
+                        <h6 class="card-title card-phone">BUSINESS PHONE #: <text>${data[i].display_phone}</text></h6>
+                        <h6 class="card-title card-rating">RATING: <text>${data[i].rating} out of 5</text></h6>
+                        <p class="categories">${data[i].categories[0].title}</p>
                     </div>
                 </div>
             </div>
