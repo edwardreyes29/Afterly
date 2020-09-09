@@ -15,10 +15,10 @@ module.exports = function(app) {
         });
     });
 
-    // GET route to get a specific user
+    // GET route to all cases with a specific user id
     app.get("/api/cases/:id", function(req, res) {
-        db.Case.findOne({ 
-            where: { id: req.params.id } 
+        db.Case.findAll({ 
+            where: { UserId: req.params.id } 
         }).then(function(dbCase) {
             res.json(dbCase);
         });
@@ -46,7 +46,7 @@ module.exports = function(app) {
     });
 
     // PUT route for updating a user's general information
-    app.put("/api/users", function(req, res) {
+    app.put("/api/cases", function(req, res) {
         db.Case.update({
             name: req.body.name,
             birthday: new Date(req.body.birthday),
