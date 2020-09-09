@@ -26,19 +26,19 @@ module.exports = function(sequelize, DataTypes) {
             allowNull: false,
         },
         location: { // Object -> STRING
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(1234),
             allowNull: true,
         },
         photos: { // Array -> STRING
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(1234),
             allowNull: true,
         },
         hours: { // Array -> STRING
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(1234),
             allowNull: true,
         },
         messaging: { // Object -> STRING    
-            type:DataTypes.STRING,
+            type:DataTypes.STRING(1234),
             allowNull: true,
         }
     });

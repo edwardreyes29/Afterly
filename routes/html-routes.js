@@ -27,13 +27,7 @@ module.exports = function (app) {
     res.sendFile(path.join(__dirname, "../public/members.html"));
   });
 
-  // TEST
-  app.get("/lawyer-form-TEST", function(req, res) {
-    res.sendFile(path.join(__dirname, "../public/lawyer-form-test.html"))
-  });
-  
   app.get("/lawyer-form", function (req, res) {
     res.sendFile(path.join(__dirname, "../public/lawyer_form.html"))
   });
-
 };

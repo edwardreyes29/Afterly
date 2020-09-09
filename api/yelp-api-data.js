@@ -47,6 +47,16 @@ module.exports = function(app) {
             console.log(err);
         }
     });
+
+    // Business Details
+    app.get("/api/yelp/business/details/:alias", async function(req, res) {
+        try {
+            let businessData = await businessDetails(req.params.alias);
+            res.json(businessData);
+        } catch(err) {
+            console.log(err);
+        }
+    })
 }
 
 const businessSearch = (term, location) => {
