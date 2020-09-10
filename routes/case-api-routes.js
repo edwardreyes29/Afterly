@@ -24,10 +24,9 @@ module.exports = function(app) {
         });
     });
 
-    app.get("/api/cases/:user/:id", function(req, res) {
+    app.get("/api/cases/search/:id", function(req, res) {
         db.Case.findOne({
             where: {
-                UserId: req.params.user,
                 id: req.params.id
             }
         }).then(function(dbCase) {
