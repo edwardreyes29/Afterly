@@ -85,6 +85,7 @@ $(document).ready(function () {
                     CaseId: parseInt(id), // Must get current case id in the future
                 });
                 console.log("Estate row added")
+                window.location.href = `../userLP.html?case=${id}&zipCode=${zip}`;
             } catch(err) {
                 console.log(err);
             }
