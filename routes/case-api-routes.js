@@ -24,7 +24,7 @@ module.exports = function(app) {
         });
     });
 
-    // POST route for saving new user
+    // POST route for saving new case
     app.post("/api/cases", function(req, res) { // req.body.birthday = "January 1, 1970"
         db.Case.create({
             name: req.body.name,

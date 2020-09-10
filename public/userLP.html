@@ -13,25 +13,17 @@
 </head>
 
 <body>
-
-    
     <div class="ui container">
-        
         <div class="ui grid">
-            <div class="ui left demo vertical inverted very wide sidebar labeled icon menu">
-            <a class="item">
-              <i class="home icon"></i>
-              Home
-            </a>
-            <a class="item">
-              <i class="user plus icon"></i>
-              Click here to add a new profile for yourself or a loved one.
-            </a>
-            
-          </div>
-            
+            <div id="sidebar-cases" class="ui left demo vertical inverted very wide sidebar labeled icon menu">
+                <a class="item">
+                    <i class="home icon"></i>
+                    Home
+                </a>
+            </div>
+
             <div class="four wide column">
-                
+
             </div>
 
             <div class="eight wide column">
@@ -53,11 +45,11 @@
                 </h4>
 
             </div>
-            
+
             <div class="four wide column"></div>
 
             <div class="sixteen wide column">
-            <a class="ui red tag label" id="toggleMenu">Click to add a new user</a></div>
+                <a class="ui red tag label" id="toggleMenu">Click to add a new user</a></div>
             <div class="sixteen wide column"></div>
             <div class="sixteen wide column"></div>
             <div class="five wide column">
@@ -229,22 +221,23 @@
     </div>
     <script src="./js/userLP.js"></script>
 
-    
-
-<script>
-    $('#toggleMenu').click(function(){
-        $('.ui.labeled.icon.sidebar').sidebar('toggle');  });
-
-        
-            $('.ui.red.tag.label').transition({
-                animation : 'flash',
-                duration: '15s',
-                looping: 'looping'
-            });
 
 
+    <script>
+        $('#toggleMenu').click(function () {
+            $('.ui.labeled.icon.sidebar').sidebar('toggle');
+        });
 
-</script>
+
+        $('.ui.red.tag.label').transition({
+            animation: 'flash',
+            duration: '15s',
+            looping: 'looping'
+        });
+
+
+
+    </script>
 
 
 

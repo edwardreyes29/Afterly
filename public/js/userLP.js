@@ -9,6 +9,17 @@ $(document).ready(() => {
     const getUserCases = id => {
         $.get(`api/cases/${id}`).then(data => {
             console.log(data);
+
+            data.forEach(dataItem => populateSidebar(dataItem));
+
+            // append create user
+            $("#sidebar-cases").append(
+                `<a class="item">
+                    <i class="plus icon"></i>
+                    Add a new profile for yourself or a loved one.
+                </a>`
+            )
+
             $(".case-name").html(data[0].name);
             $(".case-birthday").html(data[0].birthday);
             $(".case-zipCode").html(data[0].zipCode);
@@ -44,5 +55,11 @@ $(document).ready(() => {
         const id = $(this).data("case");
         window.location.href = `../lawyer_form.html?case=${id}&zipCode=${zip}`;
     }) 
+
+    const populateSidebar = (data) => {
+        $("#sidebar-cases").append(
+            `<a class="item"><i class="user icon"></i>${data.name}</a>`
+        )
+    }
 
 }); // end document.ready
