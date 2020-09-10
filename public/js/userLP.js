@@ -1,8 +1,7 @@
 $(document).ready(() => {
-    $.get("/api/user_data").then(data => {
+    $.get("/api/user_data").then((data) => {
         console.log(data); // Object { email: "email@email.com", id: 1 }
         $(".member-name").text(data.email);
-
         getUserCases(data.id);
     });
 
@@ -32,29 +31,29 @@ $(document).ready(() => {
         });
     };
 
-    $(".mortuary").on("click", async function(event) {
+    $(".mortuary").on("click", async function (event) {
         const zip = $(this).data("zip");
         const id = $(this).data("case");
         window.location.href = `../funeral_form.html?case=${id}&zipCode=${zip}`;
-    })  
+    })
 
-    $(".hospice").on("click", async function(event) {
+    $(".hospice").on("click", async function (event) {
         const zip = $(this).data("zip");
         const id = $(this).data("case");
         window.location.href = `../hospice_form.html?case=${id}&zipCode=${zip}`;
-    }) 
-    
-    $(".insurance").on("click", async function(event) {
+    })
+
+    $(".insurance").on("click", async function (event) {
         const zip = $(this).data("zip");
         const id = $(this).data("case");
         window.location.href = `../insurance_form.html?case=${id}&zipCode=${zip}`;
-    })  
+    })
 
-    $(".lawyer").on("click", async function(event) {
+    $(".lawyer").on("click", async function (event) {
         const zip = $(this).data("zip");
         const id = $(this).data("case");
         window.location.href = `../lawyer_form.html?case=${id}&zipCode=${zip}`;
-    }) 
+    })
 
     const populateSidebar = (data) => {
         $("#sidebar-cases").append(
