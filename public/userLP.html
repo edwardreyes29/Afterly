@@ -22,6 +22,44 @@
                 </a>
             </div>
 
+            <!-- ui modal -->
+            <div class="ui modal">
+                <i class="close icon"></i>
+                <div class="header">
+                  Profile Picture
+                </div>
+                <div class="image content">
+                  <div class="ui medium image">
+                    <img src="/images/pic1.jpg">
+                  </div>
+                  <div class="description">
+                    <div class="ui header">We've auto-chosen a profile image for you.</div>
+                    <div class="field">
+                        <label>Name</label>
+                        <input name="businessName" type="text">
+                    </div>
+                    <div class="field">
+                        <label>Birthday</label>
+                        <input name="birthday" type="text">
+                    </div>
+                    <div class="field">
+                        <label>Zip code</label>
+                        <input name="zipcode" type="text">
+                    </div>
+                    
+                  </div>
+                </div>
+                <div class="actions">
+                  <div class="ui black deny button">
+                    Nope
+                  </div>
+                  <div class="ui positive right labeled icon button">
+                    Yep, that's me
+                    <i class="checkmark icon"></i>
+                  </div>
+                </div>
+              </div>
+              
             <div class="four wide column">
 
             </div>
@@ -235,7 +273,9 @@
             looping: 'looping'
         });
 
-
+        $(document).on("click", "#create-case", function(even){
+            $('.ui.modal').modal('show');
+        })
 
     </script>
 

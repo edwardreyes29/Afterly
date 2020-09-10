@@ -18,7 +18,7 @@ $(document).ready(() => {
       data.forEach((dataItem) => populateSidebar(dataItem, userId));
       // append card to create user
       $("#sidebar-cases").append(
-        `<a class="item">
+        `<a id="create-case" class="item">
                     <i class="plus icon"></i>
                     Add a new profile for yourself or a loved one.
                 </a>`
