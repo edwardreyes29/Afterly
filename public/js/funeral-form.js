@@ -59,6 +59,7 @@ $(document).ready(function () {
         );
         }
     });
+    
 
     // When user selects a business, get business details and create a new estate-law row
     $(document).on("click", ".business-select", async function(event) {
@@ -85,6 +86,7 @@ $(document).ready(function () {
                     CaseId: parseInt(id), // Must get current case id in the future
                 });
                 console.log("Estate row added")
+                window.location.href = `../userLP.html?case=${id}&zipCode=${zip}`;
             } catch(err) {
                 console.log(err);
             }
@@ -95,3 +97,4 @@ $(document).ready(function () {
         $.post("/api/cases/Funeral", caseData);
     }
 });
+

@@ -1,36 +1,36 @@
-*{
-    width: 100%;
-    padding: 5px;
+* {
+  width: 100%;
+  padding: 5px;
 }
 
-.title{
-    width: 100%;
-    height: 10vh;
-    text-align: center;
-    margin-bottom: 1em;
+.title {
+  width: 100%;
+  height: 10vh;
+  text-align: center;
+  margin-bottom: 1em;
 }
 
-.row-container{
-    display: flex;
-    width: 100%;
-    height: 90vh;
+.row-container {
+  display: flex;
+  width: 100%;
+  height: 90vh;
 }
 
-.col-md-8{
-    border: 1px solid rgb(0, 0, 0);
-    height: 100vh;
+.col-md-8 {
+  border: 1px solid rgb(0, 0, 0);
+  height: 100vh;
 }
 
-.card-business h6{
-    line-height: 0.4 !important;
+.card-business h6 {
+  line-height: 0.4 !important;
 }
 
-.pagination{
-    width: 50%;
+.pagination {
+  width: 50%;
 }
 
 #myBtn {
-    width: 8vh;
+  width: 8vh;
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
   bottom: 20px; /* Place the button at the bottom of the page */
@@ -50,30 +50,97 @@
   background-color: #555; /* Add a dark-grey background on hover */
 }
 
-hr{
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+hr {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
-.card-title{
-    margin: 5px;
+.card-title {
+  margin: 5px;
 }
 .card-businessName {
-    font-weight: bolder;
-    font-size: 20px;
-    margin-top: 0;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-top: 0;
 }
 
-h6{
-    font-weight: bolder;
-    font-size: 14px;
+h6 {
+  font-weight: bolder;
+  font-size: 14px;
 }
 
-text{
-    font-weight: 40%;
-    color: rgb(158, 157, 157);
+text {
+  font-weight: 40%;
+  color: rgb(158, 157, 157);
 }
 
-.categories{
-     text-align: right;
-     margin: 0;
+.categories {
+  text-align: right;
+  margin: 0;
+}
+
+#myBtn_goBack {
+width: 8vh;
+  position: fixed;
+  background-color: #17a2b8;
+  padding: 16px;
+  border-radius: 5em;
+  width: 7vh;
+  border: none;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.fas{
+     color: white;
+}
+.sticky {
+  display: block;
+  width: 10%;
+}
+
+.right {
+  float:right;
+  right:2;
+}
+
+.button-top {
+    
+  border: none;
+  color: white;
+  height: 5vh;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #17a2b8;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  color:white;
+  background-color: #17a2b8;
+}
+
+.button1:hover {
+  background-color: #17a2b8;
+  color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover 
+{
+     color:white; 
+     text-decoration:none; 
 }
