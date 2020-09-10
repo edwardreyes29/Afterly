@@ -24,6 +24,16 @@ module.exports = function(app) {
         });
     });
 
+    app.get("/api/cases/search/:id", function(req, res) {
+        db.Case.findOne({
+            where: {
+                id: req.params.id
+            }
+        }).then(function(dbCase) {
+            res.json(dbCase);
+        })
+    })
+
     // POST route for saving new case
     app.post("/api/cases", function(req, res) { // req.body.birthday = "January 1, 1970"
         db.Case.create({
