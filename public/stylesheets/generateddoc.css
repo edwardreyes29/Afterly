@@ -1,0 +1,17 @@
+#dropzone{
+  padding: 24px;
+  border-style: dashed;
+  font-size: 36pt;
+  width: 90%;
+  margin-left: 2.5rem;
+}
+
+canvas{
+  display: none;
+
+}
+
+img {
+  margin-left: 18rem;
+}
+
