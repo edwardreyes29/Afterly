@@ -5,11 +5,11 @@ $(document).ready(() => {
     getUserCases(data.id);
   });
 
-  const getUserCases = (id) => {
-    $.get(`api/cases/${id}`).then((data) => {
+  const getUserCases = (userId) => {
+    $.get(`api/cases/${userId}`).then((data) => {
       console.log(data);
 
-      data.forEach((dataItem) => populateSidebar(dataItem));
+      data.forEach((dataItem) => populateSidebar(dataItem, userId));
 
       // append create user
       $("#sidebar-cases").append(
@@ -55,9 +55,12 @@ $(document).ready(() => {
     window.location.href = `../lawyer_form.html?case=${id}&zipCode=${zip}`;
   });
 
-  const populateSidebar = (data) => {
+  const populateSidebar = (data, userId) => {
     $("#sidebar-cases").append(
-      `<a class="item"><i class="user icon"></i>${data.name}</a>`
+      `<a class="sidebar-case item" data-case=${data.id} data-user=${userId}>
+                <i class="user icon"></i>
+                ${data.name}
+            </a>`
     );
   };
 
@@ -94,4 +97,37 @@ $(document).ready(() => {
     console.log(data[0].display_phone);
     $("#insuranceNumber").html(data[0].display_phone);
   });
+
+  // button functionality to choose case from sidebar
+  // $(document).on("click", ".sidebar-case", function (event) {
+  //   const userId = $(this).data("user");
+  //   const caseId = $(this).data("case");
+  //   console.log(userId);
+  //   console.log(caseId);
+  //   $.ajax({
+  //     type: 'get',
+  //     url: `/api/cases/${userId}/${caseId}`
+  //   })
+  //     .done(function (data) {
+  //       console.log(data);
+  //       changeCurrentCase(data);
+  //       // create object to send to changeCase function
+  //     })
+  // })
+
+  const changeCurrentCase = data => {
+    $(".case-name").html(data.name);
+    $(".case-birthday").html(data.birthday);
+    $(".case-zipCode").html(data.zipCode);
+    $(".case-name").html(data.name);
+    $(".case-birthday").html(data.birthday);
+    $(".case-zipCode").html(data.zipCode);
+    $(".complete-form").attr("data-case", data.id);
+    $(".complete-form").attr("data-zip", data.zipCode);
+    $(".update-form").attr("data-case", data.id);
+    $(".update-form").attr("data-zip", data.zipCode);
+}
+
+
+
 }); // end document.ready
