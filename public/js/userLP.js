@@ -79,7 +79,7 @@ $(document).ready(() => {
     $("#lawyerNumber").html(data[0].display_phone);
   });
 
-  $.get("api/cases/Mortuary/1").then((data) => {
+  $.get("api/cases/Funeral/1").then((data) => {
     console.log(data); // Object { email: "email@email.com", id: 1 }
     console.log(data[0].name);
     $("#mortuaryName").html(data[0].name);
