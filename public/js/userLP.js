@@ -42,12 +42,18 @@ $(document).ready(() => {
   const getUserCases = (userId) => {
     $.get(`api/cases/${userId}`).then((data) => {
       // Change display to match current cases information
+      /**
+       * var myParam = location.search.split('case=')[1] -> might split again
+       * 
+       * if (data[i] === myParam) -> loop this
+       * 
+       */
       changeCurrentCase(data[0]);
       // Populate the sidebars
       data.forEach((dataItem) => populateSidebar(dataItem, userId));
       // append card to create user
       $("#sidebar-cases").append(
-        `<a id="create-case" class="item">
+        `<a id="create-case" class="item" data-user=${userId}>
             <i class="plus icon"></i>
             Add a new profile for yourself or a loved one.
         </a>`
@@ -67,6 +73,9 @@ $(document).ready(() => {
     $(".member-name").text(data.email);
     getUserCases(data.id);
   });
+
+  // Page events
+  // =============================================
 
   // Click events for complete-form buttons
   $(".mortuary").on("click", async function (event) {
@@ -108,6 +117,26 @@ $(document).ready(() => {
       changeCurrentCase(data);
     })
     tableNames.forEach(tableName => updateCard(caseId, tableName))
+  })
+
+  // Events for Modal Create User
+  $("#case-create-submit").on("click", function(event) {
+    event.preventDefault();
+    // Store the values from the input elements
+    const caseName = $("#case-name-input").val();
+    const caseDate = $("#case-date-input").val();
+    const caseZip = $("#case-zip-input").val();
+    const userId = $("#create-case").data("user");
+    // Create object to pass to post request
+    var caseData = {
+      name: caseName,
+      birthday: caseDate,
+      zipCode: caseZip,
+      UserId: userId,
+    }
+
+    // Make a Post request
+    $.post("/api/cases", caseData);
   })
 
 }); // end document.ready
