@@ -3,11 +3,11 @@ module.exports = function(sequelize, DataTypes)  {
     const Funeral = sequelize.define("Funeral", {
         business_id: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         name: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         image_url: {
             type: DataTypes.STRING,
@@ -15,30 +15,30 @@ module.exports = function(sequelize, DataTypes)  {
         },
         phone: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         rating: {
             type: DataTypes.DOUBLE,
-            allowNull: false,
+            allowNull: true,
         },
         display_phone: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         location: { // Object -> STRING
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(1234),
             allowNull: true,
         },
         photos: { // Array -> STRING
-            type: DataTypes.STRING,
-            allowNull: true
+            type: DataTypes.STRING(1234),
+            allowNull: true,
         },
         hours: { // Array -> STRING
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(1234),
             allowNull: true,
         },
         messaging: { // Object -> STRING    
-            type:DataTypes.STRING,
+            type:DataTypes.STRING(1234),
             allowNull: true,
         }
     });

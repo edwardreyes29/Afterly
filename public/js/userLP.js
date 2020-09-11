@@ -2,8 +2,8 @@ $(document).ready(() => {
 
   // Global variables
   // =======================================
-  const tableNames = ['Hospice', 'Lawyers', 'Funeral', 'LifeInsurance'];
-
+  // const tableNames = ['Hospice', 'Lawyers', 'Funeral', 'LifeInsurance'];
+  const tableNames = ["lawyers", "insurances", "funerals", "hospices"];
   // Global Functions 
   // =======================================
   const changeCurrentCase = data => {
@@ -21,11 +21,11 @@ $(document).ready(() => {
   const updateCard = (caseId, tableName) => {
     $.get(`api/cases/${tableName}/${caseId}`).then((data) => {
       if (data.length === 0) {
-        $(`#${tableName}Name`).html("--");
-        $(`#${tableName}Number`).html("--");
+        $(`#${tableName}-name`).html("--");
+        $(`#${tableName}-number`).html("--");
       } else {
-        $(`#${tableName}Name`).html(data[0].name);
-        $(`#${tableName}Number`).html(data[0].display_phone);
+        $(`#${tableName}-name`).html(data[0].name);
+        $(`#${tableName}-number`).html(data[0].display_phone);
       }
     });
   }
@@ -48,9 +48,11 @@ $(document).ready(() => {
        * if (data[i] === myParam) -> loop this
        * 
        */
-      changeCurrentCase(data[0]);
+      if (data.length !== 0) {
+        changeCurrentCase(data[0]);
       // Populate the sidebars
       data.forEach((dataItem) => populateSidebar(dataItem, userId));
+      }
       // append card to create user
       $("#sidebar-cases").append(
         `<a id="create-case" class="item" data-user=${userId}>
@@ -65,7 +67,11 @@ $(document).ready(() => {
   // ===========================================
 
   // Changing the cards dynamically in the USERLP.html//
-  tableNames.forEach(tableName => updateCard(1, tableName))
+  tableNames.forEach(tableName => {
+      updateCard(1, tableName);
+      console.log(tableName);
+    }
+  )
 
   // Get current User Cases
   $.get("/api/user_data").then((data) => {
@@ -76,31 +82,56 @@ $(document).ready(() => {
 
   // Page events
   // =============================================
-
+  
   // Click events for complete-form buttons
-  $(".mortuary").on("click", async function (event) {
-    const zip = $(this).data("zip");
-    const id = $(this).data("case");
-    window.location.href = `../funeral_form.html?case=${id}&zipCode=${zip}`;
+  $("#complete-lawyers").on("click", function (event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../complete-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[0]}`;
   });
 
-  $(".hospice").on("click", async function (event) {
-    const zip = $(this).data("zip");
-    const id = $(this).data("case");
-    window.location.href = `../hospice_form.html?case=${id}&zipCode=${zip}`;
+  $("#complete-insurances").on("click", function (event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../complete-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[1]}`;
   });
 
-  $(".insurance").on("click", async function (event) {
-    const zip = $(this).data("zip");
-    const id = $(this).data("case");
-    window.location.href = `../insurance_form.html?case=${id}&zipCode=${zip}`;
+  $("#complete-funerals").on("click", function (event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../complete-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[2]}`;
   });
 
-  $(".lawyer").on("click", async function (event) {
-    const zip = $(this).data("zip");
-    const id = $(this).data("case");
-    window.location.href = `../lawyer_form.html?case=${id}&zipCode=${zip}`;
+  $("#complete-hospices").on("click", function (event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../complete-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[3]}`;
   });
+
+  // Click events for update-form buttons
+  $("#update-lawyers").on("click", function(event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../update-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[0]}`;
+  })
+
+  $("#update-insurances").on("click", function(event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../update-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[1]}`;
+  })
+
+  $("#update-funerals").on("click", function(event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../update-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[2]}`;
+  })
+
+  $("#update-hospices").on("click", function(event) {
+    const zipCode = $(this).data("zip");
+    const caseId = $(this).data("case");
+    window.location.href = `../update-form.html?caseId=${caseId}&zipCode=${zipCode}&tableName=${tableNames[3]}`;
+  })
 
   // button functionality to choose case from sidebar
   $(document).on("click", ".sidebar-case", function (event) {
