@@ -3,8 +3,18 @@ DESCRIBE law;
 
 SELECT * FROM Users;
 SELECT * FROM Cases;
-SELECT * FROM EstateLaws;
+
+SELECT * FROM EstateLaws; 
 SELECT * FROM LifeInsurances;
+SELECT * FROM Funerals;
+SELECT * FROM Hospices;
+
+
+
+
+
+
+DELETE FROM Funerals WHERE id = 2;
 
 SELECT * FROM law ORDER BY state;
 SELECT DISTINCT state FROM law ORDER BY state;
