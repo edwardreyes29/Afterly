@@ -20,10 +20,6 @@ Edward Reyes, Jesus DeLintt, Will Flores, Sulada Sudjai
 * [Deployment](#Deployment)
 
 ## Description
-Afterly was created to help people that have gone through the lost of a loved one… With that in mind, Afterly has partnered with Yelp to provide curated business information for every step of this process. 
-
-Each form will generate an AJAX call to the YELP API to render the business category and details by the zip code the user-provided (the zip code was submitted when he or she signed up).
-When the user selects a particular business, the business details get sent to the database and a new row in the corresponding table is created accordingly.
 
 
 ## Installation
@@ -35,7 +31,7 @@ npm i
 ```
 
 ## Challenges
-Using a combination of Bootstrap and Semantic UI. 
+
 
 
 ## Deployment
