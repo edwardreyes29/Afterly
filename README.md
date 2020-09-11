@@ -1,17 +1,10 @@
 # Afterly
 User-friendly marketplace for end of life services
 
-## Badge
-![License: ](https://img.shields.io/badge/License-APACHE2.0-green)
-![License: ](https://img.shields.io/badge/License-MIT-yellow)
-![License: ](https://img.shields.io/badge/Licence-GPL-red)
-
 ## Authors
 Edward Reyes, Jesus DeLintt, Will Flores, Sulada Sudjai
 
 ## Tables of Contents
-* [Badge](#badge)
-
 * [Description](#description)
 
 * [Technologies](#technologies)
@@ -23,8 +16,6 @@ Edward Reyes, Jesus DeLintt, Will Flores, Sulada Sudjai
 * [Installation](#installation)
 
 * [Deployment](#Deployment)
-
-## Story
 
 ## Description
 * Few people are truly prepared for the passing of friends or family.
