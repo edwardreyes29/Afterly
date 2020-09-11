@@ -9,7 +9,7 @@ module.exports = function(app) {
     //==================================================
 
     // Estate Laws
-    app.get("/api/yelp/business/estates/:zipCode", async function(req, res) {
+    app.get("/api/yelp/business/lawyers/:zipCode", async function(req, res) {
         try {
             let businessSearchData = await businessSearch(terms[0], req.params.zipCode);
             res.json(businessSearchData);  

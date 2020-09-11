@@ -1,13 +1,28 @@
+// Global Functions
+// ========================================
+
+// Capitalize function
+const capitalize = (s) => {
+    if (typeof s !== 'string') return ''
+    return s.charAt(0).toUpperCase() + s.slice(1)
+}
+
 $(document).ready(function () {
-    // console.log(window.location.href);
+    // Local variables
+    // =======================================
     const url_string = window.location.href;
     const url = new URL(url_string);
-    const id = url.searchParams.get("case")
+    const id = url.searchParams.get("caseId")
     const zip = url.searchParams.get("zipCode");
+    const tableName = url.searchParams.get("tableName");
     console.log(zip);
+
+    // Initialization
+    // ======================================
+    $("#update-page-title").html(capitalize(tableName));
     $.ajax({
         type: 'get',
-        url: `/api/yelp/business/estates/${zip}`,
+        url: `/api/yelp/business/${tableName}/${zip}`,
     })
         .done(function (data) {
             console.log(data);
@@ -48,7 +63,8 @@ $(document).ready(function () {
             .done(function (data) {
                 // Create a new business object
                 try {
-                    createCase({
+                    updateCase({
+                        id: 1,
                         business_id: data.id,
                         name: data.name,
                         image_url: data.image_url,
@@ -61,15 +77,21 @@ $(document).ready(function () {
                         messaging: data.messaging,
                         CaseId: parseInt(id), // Must get current case id in the future
                     });
-                    console.log("Estate row added")
-                    window.location.href = `../userLP.html?case=${id}&zipCode=${zip}`;
                 } catch (err) {
                     console.log(err);
                 }
             })
     })
 
-    const createCase = caseData => {
-        $.post("/api/cases/estate-law", caseData);
+    function updateCase(caseData) {
+        // Update form
+        console.log(tableName)
+        $.ajax({
+            method: "PUT",
+            url: `/api/cases/${tableName}/1`,
+            data: caseData
+        }).then(function () {
+            window.location.href = `../userLP.html?caseId=${id}&zipCode=${zip}`
+        });
     }
 });
