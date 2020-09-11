@@ -17,6 +17,7 @@ $(document).ready(() => {
     $(".complete-form").attr("data-zip", data.zipCode);
     $(".update-form").attr("data-case", data.id);
     $(".update-form").attr("data-zip", data.zipCode);
+    $("#create-doc").attr("data-case", data.id);
   }
   const updateCard = (caseId, tableName) => {
     $.get(`api/cases/${tableName}/${caseId}`).then((data) => {
@@ -168,6 +169,11 @@ $(document).ready(() => {
 
     // Make a Post request
     $.post("/api/cases", caseData);
+  })
+
+  $("#create-doc").on("click", function(event) {
+    const caseId = $(this).data("case");
+    window.location.href = `../generateddoc.html?caseId=${caseId}`;
   })
 
 }); // end document.ready
