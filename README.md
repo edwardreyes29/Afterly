@@ -78,7 +78,9 @@ npm i
 
 
 ## Deployment
-Heroku Deployment link -->
+Heroku Deployment link: 
+[Afterly](https://sheltered-escarpment-16015.herokuapp.com/)
+
 ![UML](./assets/Afterly-UML.png)
 ![main](./assets/main.png)
 ![form](./assets/form.png)
