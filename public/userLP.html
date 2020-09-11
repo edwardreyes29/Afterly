@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
 </head>
 
@@ -22,44 +22,6 @@
                 </a>
             </div>
 
-            <!-- ui modal -->
-            <div class="ui modal">
-                <i class="close icon"></i>
-                <div class="header">
-                  Profile Picture
-                </div>
-                <div class="image content">
-                  <div class="ui medium image">
-                    <img src="/images/pic1.jpg">
-                  </div>
-                  <div class="description">
-                    <div class="ui header">We've auto-chosen a profile image for you.</div>
-                    <div class="field">
-                        <label>Name</label>
-                        <input name="businessName" type="text">
-                    </div>
-                    <div class="field">
-                        <label>Birthday</label>
-                        <input name="birthday" type="text">
-                    </div>
-                    <div class="field">
-                        <label>Zip code</label>
-                        <input name="zipcode" type="text">
-                    </div>
-                    
-                  </div>
-                </div>
-                <div class="actions">
-                  <div class="ui black deny button">
-                    Nope
-                  </div>
-                  <div class="ui positive right labeled icon button">
-                    Yep, that's me
-                    <i class="checkmark icon"></i>
-                  </div>
-                </div>
-              </div>
-              
             <div class="four wide column">
 
             </div>
@@ -185,7 +147,7 @@
                         <i class="pencil alternate icon"></i>
                         Complete Form
                     </button>
-                    <button class="ui bottom aligned segment secondary button">
+                    <button class="ui bottom aligned segment secondary button" data-business="Life_Insurance">
                         <i class="edit outline icon"></i>
                         Update Form
                     </button>
@@ -248,13 +210,45 @@
             </div>
             <div class="four wide column"></div>
             <button class="fluid ui button">Create my document</button>
-
-
-
-
-
-
             <!-- End of div container and grid -->
+        </div>
+
+        <!-- ui modal -->
+        <div class="ui modal">
+            <i class="close icon"></i>
+            <div class="header">
+                Create New Case
+            </div>
+            <div class="image content">
+                <div class="ui medium image">
+                    <i class="user plus icon"></i>
+                </div>
+                <div class="description">
+                    <div class="ui header">We've auto-chosen a profile image for you.</div>
+                    <div class="field">
+                        <label>Name</label>
+                        <input id="case-name-input" type="text" placeholder="Enter Name">
+                    </div>
+                    <div class="field">
+                        <label>Birthday</label>
+                        <input id="case-date-input" type="date" placeholder="e.g. January 1, 2020">
+                    </div>
+                    <div class="field">
+                        <label>Zip code</label>
+                        <input id="case-zip-input" type="text" placeholder="Zip Code">
+                    </div>
+
+                </div>
+            </div>
+            <div class="actions">
+                <div class="ui black deny button">
+                    Cancel
+                </div>
+                <div id="case-create-submit" class="ui positive right labeled icon button">
+                    Submit
+                    <i class="checkmark icon"></i>
+                </div>
+            </div>
         </div>
     </div>
     <script src="./js/userLP.js"></script>
@@ -273,7 +267,7 @@
             looping: 'looping'
         });
 
-        $(document).on("click", "#create-case", function(even){
+        $(document).on("click", "#create-case", function (even) {
             $('.ui.modal').modal('show');
         })
 
